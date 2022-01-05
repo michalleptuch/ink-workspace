@@ -6,6 +6,12 @@ Welcome to the official issue-only repo for Ink Workspace and Ink Workspace Pro.
 Ink Workspace: https://www.microsoft.com/store/apps/9P0RP342JZMN  
 Ink Workspace Pro: https://www.microsoft.com/store/apps/9N8PFLMMR9BW
 
-![](images/InkWorkspaceHero.png)
+![](images/InkWorkspaceHero.png)  
 
 Feel free to share ideas about new features or report bugs.
+
+## Translations
+German: [@lorisobidesign](https://twitter.com/lorisobidesign)  
+Italian: [@Simizfo](https://twitter.com/Simizfo)  
+Portuguese (Portugal): [@esibruti](https://twitter.com/esibruti)  
+Spanish (Spain): [@qrbt_ok](https://twitter.com/qrbt_ok)
