@@ -1,14 +1,10 @@
-# Ink Workspace and Ink Workspace Pro
+# Ink Workspace
 
-Welcome to the official issue-only repo for Ink Workspace and Ink Workspace Pro. The apps are desktop apps that replace built-in Windows Ink Workspace in Windows 10. Apps primarily use WPF and UWP (as XAML Islands) and allow you to run installed apps, sketch notes and capture screen or windows.
+Welcome to the official issue-only repo for Ink Workspace. This is a desktop app that replaces built-in Windows Ink Workspace in Windows 10. App primarily uses WPF and UWP (as XAML Islands) and allows you to run installed apps, sketch notes and captures screen or windows.
 
-Ink Workspace  
 <a href="https://www.microsoft.com/store/apps/9P0RP342JZMN">
 <img src="https://store-images.s-microsoft.com/image/apps.50337.14525831200021957.5b3d0a2c-8dcd-4ec6-a95f-ba0c20449817.0d8b0258-b694-4088-bf77-bd9338fa99ea" width=80/><img src="https://getbadgecdn.azureedge.net/images/English_L.png" height=80 /></a>
-
-Ink Workspace Pro  
-<a href="https://www.microsoft.com/store/apps/9N8PFLMMR9BW">
-<img src="https://store-images.s-microsoft.com/image/apps.50337.14525831200021957.5b3d0a2c-8dcd-4ec6-a95f-ba0c20449817.0d8b0258-b694-4088-bf77-bd9338fa99ea" width=80/><img src="https://getbadgecdn.azureedge.net/images/English_L.png" height=80 /></a>
+<br><br>
 
 ![](images/InkWorkspaceHero.png)  
 
