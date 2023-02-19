@@ -1,21 +1,21 @@
 # Privacy policy
 
 Ink Workspace does not collect or send: 
-- personal user data
-- files from local device
-- captured screens or app windows saved as videos
-- audio from microphone
-- content from clipboard
-- taken screenshots.
+- personal user data,
+- files and folders from local device (including recent files),
+- device information,
+- captured screens or app windows saved as videos,
+- content from clipboard,
+- taken screenshots,
+- emails, calendars and contacts.
 
 Ink Workspace collects: 
-- information about installed apps from the Microsoft Store
-- information about classic apps added by user in app
-- information entered in Sketchpad area.
+- data about installed apps from the Microsoft Store (including Android apps),
+- data about installed classic apps.
 
 Ink Workspace collects and sends:
 - anonymous information about crashes and hangs.
 
 The publisher can modify or update this privacy policy. Users should review this privacy policy periodically.
 
-Last modified: **August 28, 2022**.
+Last modified: **February 19, 2023**.
