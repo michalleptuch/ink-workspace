@@ -15,3 +15,7 @@ German: [@lorisobidesign](https://twitter.com/lorisobidesign)
 Italian: [@Simizfo](https://twitter.com/Simizfo)  
 Portuguese (Portugal): [@esibruti](https://twitter.com/esibruti)  
 Spanish (Spain): [@qrbt_ok](https://twitter.com/qrbt_ok)
+
+## New translations
+Chinese: [@ZHang233-ai](https://github.com/ZHang233-ai)  
+French: [@FJduFou](https://github.com/FJduFou)  
