@@ -411,7 +411,7 @@
     <value>Bibliothèques</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>Mes appliactions</value>
+    <value>Mes applications</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
     <value>Noter et évaluer</value>
