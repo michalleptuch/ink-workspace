@@ -272,7 +272,7 @@
     <value>Paramètres</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Cast</value>
+    <value>Diffuser</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
     <value>Presse-papiers</value>
@@ -296,7 +296,7 @@
     <value>Narrateur</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>Projet</value>
+    <value>Projeter</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
     <value>Enregistrer un écran ou une fenêtre</value>
@@ -411,7 +411,7 @@
     <value>Bibliothèques</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>Mes apps</value>
+    <value>Mes appliactions</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
     <value>Noter et évaluer</value>
@@ -456,10 +456,10 @@
     <value>Si vous ne voyez pas toutes les applications, essayez d'actualiser la liste manuellement.</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>Rafraîchissement</value>
+    <value>Rafraîchir</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>Rafraîchir</value>
+    <value>Rafraîchissement</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
     <value>Rafraîchir les applications</value>
@@ -860,13 +860,13 @@
     <value>A propos</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
-    <value>Apps</value>
+    <value>Applications</value>
   </data>
   <data name="Settings_Menu_General" xml:space="preserve">
     <value>Général</value>
   </data>
   <data name="Settings_Menu_Home" xml:space="preserve">
-    <value>Acceuil</value>
+    <value>Accueil</value>
   </data>
   <data name="Settings_Menu_Personalization" xml:space="preserve">
     <value>Personnalisation</value>
