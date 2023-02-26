@@ -522,13 +522,13 @@
     <value>개인 용어 사전 설정</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>필기 &amp; 타자 개인 설정</value>
+    <value>필기 및 타자 개인 설정</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>펜 &amp; 손글씨 설정</value>
+    <value>펜 및 손글씨 설정</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>펜 &amp; Windows Ink</value>
+    <value>펜 및 Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
     <value>Windows 작업 표시줄에 이 앱을 고정하기</value>
