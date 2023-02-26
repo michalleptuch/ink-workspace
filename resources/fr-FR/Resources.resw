@@ -809,7 +809,7 @@
     <value>Capture uniquement l'écran principal</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>Zone de cpature</value>
+    <value>Zone de capture</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
     <value>Afficher l'expérience de confirmation avant l'arrêt</value>
