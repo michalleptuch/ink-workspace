@@ -131,7 +131,7 @@
     <value>Przenieś na początek</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>Brak wyników wyszukiwania '{0}'</value>
+    <value>Brak wyników wyszukiwania dla '{0}'</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Aplikacje</value>
@@ -181,10 +181,10 @@
     <value>Użyj ikony w zasobniku</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>Możesz otwierać Ink Workspace bezpośrednio z paska zadań. Po prostu przypnij aplikację.</value>
+    <value>Możesz otwierać Ink Workspace bezpośrednio z paska zadań - po prostu przypnij aplikację.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Kliknij prawym przyciskiem myszy lub dotnij i przytrzymaj, aby otworzyć listę szybkiego dostępu. Zawiera ona podstawowe zadania.</value>
+    <value>Kliknij prawym przyciskiem myszy lub dotknij i przytrzymaj, aby otworzyć listę szybkiego dostępu. Zawiera ona podstawowe zadania.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
     <value>Przypnij Ink Workspace do paska zadań</value>
@@ -193,7 +193,7 @@
     <value>Ink Workspace pozwala na spersonalizowanie ustawień, włączenie lub wyłączenie skrótów klawiszowych, zarządzanie aplikacjami i wiele więcej.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>Możesz znaleźć ikonę ustawień w oknie aplikacji, menu kontekstowym ikony w zasobniku lub na liście szybkiego dostępu.</value>
+    <value>Przycisk ustawień znajdziesz w oknie aplikacji, menu kontekstowym ikony w zasobniku lub na liście szybkiego dostępu.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
     <value>Dostosuj ustawienia</value>
@@ -552,7 +552,7 @@
     <value>Uruchom przy starcie</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>Włącz dźwieki interfejsu użytkownika</value>
+    <value>Włącz dźwięki interfejsu użytkownika</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
     <value>Dźwięki</value>
@@ -695,7 +695,7 @@
     <value>Włącz zaokrąglone krawędzie dla kafelków aplikacji i szybkich akcji</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
-    <value>Zaokrągolne krawędzie kafelków</value>
+    <value>Zaokrąglone krawędzie kafelków</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
     <value>Włącz zaokrąglone krawędzie dla okien aplikacji</value>
