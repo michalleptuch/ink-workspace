@@ -152,7 +152,7 @@
     <value>Arrêter l'enregistrement</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>en-US</value>
+    <value>fr-FR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
@@ -253,7 +253,7 @@
     <value>sont valables.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>US</value>
+    <value>FR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">

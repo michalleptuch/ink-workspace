@@ -152,7 +152,7 @@
     <value>停止录制</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>en-US</value>
+    <value>zh-CN</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
@@ -181,7 +181,7 @@
     <value>使用托盘图标</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>您可以直接从任务栏来打开墨迹工作区,只需将它固定到任务栏即可:)</value>
+    <value>您可以直接从任务栏来打开墨迹工作区,只需将它固定到任务栏即可.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
     <value>右键图标以打开跳转列表.它包含基本命令的列表.</value>
@@ -190,7 +190,7 @@
     <value>固定应用到任务栏</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>墨迹工作区允许您调整个性化设置、启用或禁用键盘快捷键、管理应用程序等</value>
+    <value>墨迹工作区允许您调整个性化设置、启用或禁用键盘快捷键、管理应用程序等.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
     <value>您可以在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中找到设置图标.</value>
@@ -253,7 +253,7 @@
     <value>键开头的快捷键才有效.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>US</value>
+    <value>CN</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
@@ -585,7 +585,7 @@
     <value>应用</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>当没有可用数据时,主页中的元素可能会自动隐藏.</value>
+    <value>当没有可用数据时,主页中的元素可能会自动隐藏</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
     <value>固定到快速操作的磁贴</value>
@@ -662,7 +662,7 @@
     <value>笔电量状态</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>在托盘图标的右键菜单或者任务栏应用右键的跳转列表显示笔设置.</value>
+    <value>在托盘图标的右键菜单或者任务栏应用右键的跳转列表显示笔设置</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
     <value>笔设置选项</value>
@@ -710,7 +710,7 @@
     <value>设置选项</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中显示停止录制选项.</value>
+    <value>在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中显示停止录制选项</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
     <value>停止录制选项</value>
