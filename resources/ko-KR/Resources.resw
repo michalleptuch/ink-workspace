@@ -217,7 +217,7 @@
     <value>설정</value>
   </data>
   <data name="JumpList_StopRecording" xml:space="preserve">
-    <value>Stop recording</value>
+    <value>녹화 </value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
     <value>저장</value>
