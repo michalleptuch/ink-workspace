@@ -125,7 +125,7 @@
     <value>Toutes les apps</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Type here to searcTapez ici pour rechercherh</value>
+    <value>Tapez ici pour rechercher</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
     <value>Déplacer vers l'avant</value>
