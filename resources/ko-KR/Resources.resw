@@ -570,7 +570,7 @@
     <value>앱의 타일 크기</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>배경으로 Bing 배경 화면 보이기기</value>
+    <value>배경으로 Bing 배경 화면 보이기</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
     <value>Bing 배경 화면</value>
