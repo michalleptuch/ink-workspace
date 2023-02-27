@@ -193,7 +193,7 @@
     <value>Ink Workspace를 사용하시면서 개인 설정을 조정하거나 키보드 단축키 켜고 끄기, 앱 관리하기 등의 작업을 하실 수 있어요.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>설정 아이콘은 Workspace, 트레이 아이콘 또는 우클릭 점프 목록에서 찾으실 수 있답니다.</value>
+    <value>설정 아이콘은 Workspace, 트레이 아이콘을 우클릭하시거나 점프 목록에서 찾으실 수 있답니다.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
     <value>설정 조정하기</value>
@@ -417,7 +417,7 @@
     <value>평가 및 리뷰하기</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Mica For Everyone 앱이 창이 올바르지 않게 표시되게 하는 원인일 수 있어요. 이 경우에는, InkWorkspace.Wpf 와 InkWorkspace.Recording에 대한 새로운 규칙을 추가한 뒤 기본값으로 설정하세요.</value>
+    <value>Mica For Everyone 앱이 창이 올바르지 않게 표시되게 할 수 있어요. 이 경우에는, InkWorkspace.Wpf 와 InkWorkspace.Recording에 대한 새로운 규칙을 추가한 뒤 기본값으로 설정하세요.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
     <value>문제 해결</value>
@@ -438,7 +438,7 @@
     <value>앱 목록에서 그룹 활성화</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>앱 그룹하기</value>
+    <value>앱 그룹</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
     <value>고급</value>
@@ -483,7 +483,7 @@
     <value>고정 해제됨</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>키보드 단축키 사용자 지정하기</value>
+    <value>키보드 단축키 사용자 지정</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
     <value>시작 단축키</value>
@@ -501,16 +501,16 @@
     <value>관련 설정</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Workspace를 보여주는 키보드 단축키 활성화하기</value>
+    <value>Workspace를 보여주는 키보드 단축키 활성화</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>시작 단축키 활성화하기</value>
+    <value>시작 단축키 활성화</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
     <value>크게</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>앱 내 컨텐츠의 글꼴 크기 정하기</value>
+    <value>앱 내 컨텐츠의 글꼴 크기 변경</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
     <value>일반</value>
@@ -531,7 +531,7 @@
     <value>펜 및 Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>Windows 작업 표시줄에 이 앱을 고정하기</value>
+    <value>Windows 작업 표시줄에 이 앱 고정</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
     <value>고정됨</value>
@@ -543,7 +543,7 @@
     <value>작업 표시줄에 고정</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>로그인한 후 자동으로 앱을 실행하기</value>
+    <value>로그인한 후 자동으로 앱 실행</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
     <value>설정 열기</value>
@@ -552,13 +552,13 @@
     <value>부팅 시 열기</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>몰입형 오디오 경험 활성화하기</value>
+    <value>몰입형 오디오 경험 활성화</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
     <value>소리</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>고정된 앱들의 타일 크기 조정하기</value>
+    <value>고정된 앱들의 타일 크기 조정</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
     <value>보통</value>
@@ -570,7 +570,7 @@
     <value>앱의 타일 크기</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>배경으로 Bing 배경 화면을 보여주기</value>
+    <value>배경으로 Bing 배경 화면 보이기기</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
     <value>Bing 배경 화면</value>
@@ -606,7 +606,7 @@
     <value>추천</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>홈 화면 요소들의 보이기 여부와 순서 설정하기</value>
+    <value>홈 화면 요소들의 보이기 여부와 순서 설정</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
     <value>특정 수만큼의 최근 파일 보이기</value>
@@ -615,7 +615,7 @@
     <value>최근 파일</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>고정된 빠른 동작의 타일 크기 조정하기</value>
+    <value>고정된 빠른 동작의 타일 크기 조정</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
     <value>보통</value>
@@ -627,13 +627,13 @@
     <value>빠른 동작 타일 크기</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>사용자 세부 정보란에서 이메일 주소 보여주기</value>
+    <value>사용자 세부 정보란에서 이메일 주소 보이기</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
     <value>사용자의 이메일 주소</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>사진, 이름과 이메일 주소 같은 세부 정보 보여주기</value>
+    <value>사진, 이름과 이메일 주소 같은 세부 정보 보이기</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
     <value>사용자의 세부 정보</value>
@@ -656,40 +656,40 @@
     <value>버튼 및 상태</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>Workspace에서 펜의 배터리 상태 보여주기</value>
+    <value>Workspace에서 펜의 배터리 상태 보이기</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
     <value>펜 베터리 상태</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>우클릭 메뉴와 점프 목록에 펜 설정 버튼 보여주기</value>
+    <value>우클릭 메뉴와 점프 목록에 펜 설정 버튼 보이기</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
     <value>펜 설정 버튼</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>중앙 하단</value>
+    <value>가운데 아래</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
-    <value>좌측 하단</value>
+    <value>왼쪽 아래</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
-    <value>우측 하단</value>
+    <value>오른쪽 아래</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>앱 창의 위치 보여주기</value>
+    <value>앱 창의 위치 변경</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
     <value>위치</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>중앙 상단</value>
+    <value>가운데 위</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
-    <value>좌측 상단</value>
+    <value>왼쪽 위</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
-    <value>우측 상단</value>
+    <value>오른쪽 위</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
     <value>앱과 빠른 동작 타일에 둥근 모서리 효과 적용</value>
@@ -704,13 +704,13 @@
     <value>창에 둥근 모서리 효과</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>Workspace에 설정 버튼을 표시합니다</value>
+    <value>Workspace에 설정 버튼 표시</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
     <value>설정 버튼</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>녹화 중에 우클릭 메뉴와 점프 목록에 녹화 중단 버튼 보여주기</value>
+    <value>녹화 중에 우클릭 메뉴와 점프 목록에 녹화 중단 버튼 보이기</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
     <value>녹화 중단 버튼</value>
@@ -833,7 +833,7 @@
     <value>단축키 기록 중단</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
-    <value>홈 화면에서 모든 빠른 동작 제거하기</value>
+    <value>홈 화면에서 모든 빠른 동작 제거</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
     <value>모두 고정 해제</value>
@@ -848,13 +848,13 @@
     <value>목록에서 모든 최근 파일 제거</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
-    <value>모두 제거하기</value>
+    <value>모두 제거</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
     <value>제거됨</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
-    <value>모두 제거하기</value>
+    <value>모두 제거</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
     <value>정보</value>
