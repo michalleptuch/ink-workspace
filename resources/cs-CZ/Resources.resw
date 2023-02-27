@@ -152,7 +152,7 @@
     <value>Zastavit nahrávání</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>en-US</value>
+    <value>cs-CZ</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
@@ -254,7 +254,7 @@
     <value>jsou validní.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>US</value>
+    <value>CZ</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
@@ -274,7 +274,6 @@
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
     <value>Bezdrátová obrazovka</value>
-    <comment>Not sure what this action does? Cannot translate properly.</comment>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
     <value>Schránka</value>
