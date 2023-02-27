@@ -1,19 +1,20 @@
 [//]: # (Description)
 
-Ink Workspace is a must-have app when you use your pen! It allows you to launch apps and quick actions, check battery level of your pen, access and manage your recently opened files - everything in one modern and fluent window that perfectly fits your system. Ink Workspace is also the easiest way to take screenshots and record your screen or any window.
+Ink Workspace è un'app indispensabile per chi usa un dispositivo di input penna, che ti permette di aprire app ed eseguire comandi rapidi, controllare il livello di batteria della tua penna e di accedere ai documenti e alle app più recenti - tutto in un'unica finestra con un design moderno che si abbina perfettamente al sistema. Ink Workspace è anche il modo più veloce per scattare screenshot e registrare lo schermo del tuo computer.
 
 
 [//]: # (Short description)
 
-A must-have app that enriches pen experience on Windows devices
+Un'app indispensabile per enfatizzare l'esperienza di input penna su dispositivi Windows
 
 
 [//]: # (Keywords)
 
 ink workspace
+penna di windows
 windows ink
-pen
+penna
 launcher
-workspace
-apps
-recorder
+ambiente di lavoro
+app
+registratore
