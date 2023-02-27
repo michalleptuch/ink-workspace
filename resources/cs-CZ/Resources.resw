@@ -744,13 +744,13 @@
     <value>Zapnout klávesovou zkratku pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Zapnout klávesovou zkratku pro spuštění nahrávání</value>
+    <value>Zapnout zkratku pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
     <value>Zapnout klávesovou zkratku pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Zapnout klávesovou zkratku pro zastavení nahrávání</value>
+    <value>Zapnout zkratku pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30 snímků/s</value>
@@ -825,13 +825,13 @@
     <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Klávesova zkratka pro spuštění nahrávání</value>
+    <value>Zkratka pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
     <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Klávesová zkratka pro zastavení nahrávání</value>
+    <value>Zkratka pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
     <value>Odepnout centrum akcí z domácí obrazovky</value>
