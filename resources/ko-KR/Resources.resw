@@ -181,7 +181,7 @@
     <value>트레이 아이콘 사용하기</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace를 작업 표시줄에서 바로 여실 수 있어요. 그냥 고정만 해 두시면 돼요.</value>
+    <value>Ink Workspace를 작업 표시줄에서 바로 열 수 있어요. 그냥 고정만 해 두시면 돼요.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
     <value>우클릭하거나 탭한 뒤에 꾹 눌러서 기본 명령들을 포함하는 점프 목록을 보실 수 있답니다.</value>
@@ -190,16 +190,16 @@
     <value>작업 표시줄에 앱 고정하기</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace를 사용하시면서 개인 설정을 조정하시거나 키보드 단축키 켜고 끄기, 앱 관리하기 등의 작업을 하실 수 있어요.</value>
+    <value>Ink Workspace를 사용하시면서 개인 설정을 조정하거나 키보드 단축키 켜고 끄기, 앱 관리하기 등의 작업을 하실 수 있어요.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>설정 아이콘은 Workspace, 트레이 아이콘의 우클릭 메뉴 또는 점프 목록에서 찾으실 수 있답니다.</value>
+    <value>설정 아이콘은 Workspace, 트레이 아이콘 또는 우클릭 점프 목록에서 찾으실 수 있답니다.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
     <value>설정 조정하기</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Ink Workspace의 구성을 마치시려면 이 창을 닫으세요</value>
+    <value>Ink Workspace의 구성을 마치려면 이 창을 닫으세요</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
     <value>거의 다 되었어요...</value>
@@ -229,7 +229,7 @@
     <value>바로가기 편집</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>단축키로 사용할 키보드 조합을 입력해주세요</value>
+    <value>단축키로 사용할 키보드 조합을 입력하세요</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
     <value>오직</value>
@@ -417,7 +417,7 @@
     <value>평가 및 리뷰하기</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Mica For Everyone 앱이 창이 올바르지 않게 표시되게 하는 원인일 수 있어요. 이 경우에는, InkWorkspace.Wpf 와 InkWorkspace.Recording에 대한 새로운 규칙을 추가하시고 기본값으로 설정하세요.</value>
+    <value>Mica For Everyone 앱이 창이 올바르지 않게 표시되게 하는 원인일 수 있어요. 이 경우에는, InkWorkspace.Wpf 와 InkWorkspace.Recording에 대한 새로운 규칙을 추가한 뒤 기본값으로 설정하세요.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
     <value>문제 해결</value>
@@ -857,7 +857,7 @@
     <value>모두 제거하기</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>이 앱에 대하여</value>
+    <value>정보</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
     <value>앱</value>
