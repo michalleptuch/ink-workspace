@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="Apps_AllApps.Text" xml:space="preserve">
+    <value>Tüm uygulamalar</value>
+  </data>
+  <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
+    <value>Aramak için buraya yazın</value>
+  </data>
+  <data name="Apps_MoveToFront.Text" xml:space="preserve">
+    <value>Öne getir</value>
+  </data>
+  <data name="Apps_NoResultsFound" xml:space="preserve">
+    <value>&apos;{0}&apos; için sonuç bulunamadı</value>
+  </data>
+  <data name="Apps_Title.Text" xml:space="preserve">
+    <value>Uygulamalar</value>
+  </data>
+  <data name="Apps_Unpin.Text" xml:space="preserve">
+    <value>Sabitlemeyi kaldır</value>
+  </data>
+  <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
+    <value>Kalem ayarları</value>
+  </data>
+  <data name="ContextMenu_Quit.Text" xml:space="preserve">
+    <value>Çıkış</value>
+  </data>
+  <data name="ContextMenu_Settings.Text" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
+    <value>Kaydı durdur</value>
+  </data>
+  <data name="CultureInfo" xml:space="preserve">
+    <value>en-US</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="FirstRunExperience_Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="FirstRunExperience_Next.Content" xml:space="preserve">
+    <value>İleri</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
+    <value>Hoş geldiniz</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
+    <value>Haydi bu uygulamayı bir profesyonel gibi kullanmayı öğrenelim</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
+    <value>Ink Workspace&apos;i tepsi simgesini kullanarak açabilirsiniz. Saatin yanında duruyor olmalı.</value>
+  </data>
+  <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
+    <value>Simge gizlenmiş olabilir. Eğer görmüyorsanız, ok tuşuna tıklamayı deneyin.</value>
+  </data>
+  <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
+    <value>Tepsi simgesini kullanın</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
+    <value>Ink Workspace&apos;i doğrudan görev çubuğundan açabilirsiniz. Sabitlemeniz yeterli.</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
+    <value>Atlama listesini açmak için sağ tıklayın veya basıp tutun. Temel komutlar listesi içerir.</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
+    <value>Uygulamayı görev çubuğuna sabitleyin</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
+    <value>Ink Workspace kişiselleştirme ayarlarınızı düzenlemenize, klavye kısayollarını etkinleştirip devre dışı bırakmanıza, uygulamaları yönetmenize ve daha fazlasını yapmanıza imkân verir.</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
+    <value>Ayarlar simgesini çalışma alanında, tepsi simgesinin bağlam menüsünde ve atlama listesinde bulabilirsiniz.</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
+    <value>Ayarları değiştir</value>
+  </data>
+  <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
+    <value>Ink Workspace&apos;in kurulumunu tamamlamak için bu pencereyi kapatın</value>
+  </data>
+  <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
+    <value>Neredeyse hazır...</value>
+  </data>
+  <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
+    <value>Atla</value>
+  </data>
+  <data name="JumpList_PenSettings" xml:space="preserve">
+    <value>Kalem ayarları</value>
+  </data>
+  <data name="JumpList_QuitApp" xml:space="preserve">
+    <value>Çıkış</value>
+  </data>
+  <data name="JumpList_Settings" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="JumpList_StopRecording" xml:space="preserve">
+    <value>Kaydı durdur</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
+    <value>Kısayolu düzenle</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
+    <value>Bu kısayolu değiştirmek için tuş kombinasyonu yapın</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
+    <value>Sadece şununla başlayan kısayollar geçerlidir:</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
+    <value>Windows tuşu</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
+    <value>Ctrl</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info4.Text" xml:space="preserve">
+    <value>Alt</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
+    <value>veya</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Market" xml:space="preserve">
+    <value>US</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Uygulamalar</value>
+  </data>
+  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ana sayfa</value>
+  </data>
+  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Hızlı eylemler</value>
+  </data>
+  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Son kullanılan dosyalar</value>
+  </data>
+  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="QuickActions_Action_Cast" xml:space="preserve">
+    <value>Yayınla</value>
+  </data>
+  <data name="QuickActions_Action_Clipboard" xml:space="preserve">
+    <value>Pano</value>
+  </data>
+  <data name="QuickActions_Action_Connect" xml:space="preserve">
+    <value>Bağlan</value>
+  </data>
+  <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
+    <value>Emoji paneli</value>
+  </data>
+  <data name="QuickActions_Action_GameBar" xml:space="preserve">
+    <value>Oyun çubuğu</value>
+  </data>
+  <data name="QuickActions_Action_LockDevice" xml:space="preserve">
+    <value>Cihazı kilitle</value>
+  </data>
+  <data name="QuickActions_Action_Magnifier" xml:space="preserve">
+    <value>Büyüteç</value>
+  </data>
+  <data name="QuickActions_Action_Narrator" xml:space="preserve">
+    <value>Okuyucu</value>
+  </data>
+  <data name="QuickActions_Action_Project" xml:space="preserve">
+    <value>Yansıt</value>
+  </data>
+  <data name="QuickActions_Action_Recording" xml:space="preserve">
+    <value>Bir ekran veya pencereyi kaydet</value>
+  </data>
+  <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
+    <value>Geri Dönüşüm Kutusu</value>
+  </data>
+  <data name="QuickActions_Action_Run" xml:space="preserve">
+    <value>Çalıştır</value>
+  </data>
+  <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
+    <value>Ekran Çizimi</value>
+  </data>
+  <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
+    <value>Masaüstünü göster</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown" xml:space="preserve">
+    <value>Bilgisayarı kapat</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
+    <value>Hazırda beklet</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
+    <value>Yeniden başlat</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
+    <value>Ekran görüntüsü al</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
+    <value>10 saniye geciktir</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
+    <value>15 saniye geciktir</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
+    <value>3 saniye geciktir</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
+    <value>5 saniye geciktir</value>
+  </data>
+  <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
+    <value>Sanal dokunma yüzeyi</value>
+  </data>
+  <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
+    <value>Ses ile yazma</value>
+  </data>
+  <data name="QuickActions_More.Text" xml:space="preserve">
+    <value>Daha fazla</value>
+  </data>
+  <data name="QuickActions_Title.Text" xml:space="preserve">
+    <value>Hızlı eylemler</value>
+  </data>
+  <data name="QuickActions_Unpin.Text" xml:space="preserve">
+    <value>Sabitlemeyi kaldır</value>
+  </data>
+  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="RateAndReview_Title.Text" xml:space="preserve">
+    <value>Bu uygulamaya puan verin</value>
+  </data>
+  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Bir inceleme yazın</value>
+  </data>
+  <data name="RecentFiles_More.Text" xml:space="preserve">
+    <value>Daha fazla</value>
+  </data>
+  <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
+    <value>Cihazınızı kullandıkça size daha fazla son kullanılan dosya gösterecektir</value>
+  </data>
+  <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
+    <value>Dosya konumunu aç</value>
+  </data>
+  <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
+    <value>Listeden kaldır</value>
+  </data>
+  <data name="RecentFiles_Title.Text" xml:space="preserve">
+    <value>Son kullanılar dosyalar</value>
+  </data>
+  <data name="RecordingFileName" xml:space="preserve">
+    <value>Kaydediliyor</value>
+  </data>
+  <data name="RecordingStatus_Recording.Text" xml:space="preserve">
+    <value>Kaydediliyor...</value>
+  </data>
+  <data name="RecordingStatus_Stop.Text" xml:space="preserve">
+    <value>Dur</value>
+  </data>
+  <data name="Recording_Cancel.Content" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Recording_Skip.Content" xml:space="preserve">
+    <value>Atla</value>
+  </data>
+  <data name="Recording_Starting.Text" xml:space="preserve">
+    <value>Başlatılıyor...</value>
+  </data>
+  <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
+    <value>E-posta destek</value>
+  </data>
+  <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
+    <value>Geri bildirim</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
+    <value>Bu uygulamada şu kütüphaneler kullanılmıştır:</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
+    <value>Kütüphaneler</value>
+  </data>
+  <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
+    <value>Uygulamalarım</value>
+  </data>
+  <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
+    <value>Puan ver ve incele</value>
+  </data>
+  <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
+    <value>Mica For Everyone uygulaması bu uygulamanın yanlış görünmesine sebep olabilir. Bu durumda, InkWorkspace.wpf ve InkWorkspace.Recording işlemleri için yeni kurallar ekleyin ve varsayılan değerleri ayarlayın.</value>
+  </data>
+  <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
+    <value>Sorun giderme</value>
+  </data>
+  <data name="SettingsAbout_Version.Text" xml:space="preserve">
+    <value>Sürüm:</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
+    <value>Uygulama listesinde Android uygulamalarını göster</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
+    <value>Bu ayarı kapattığınızda Ana Sayfa görünümündeki tüm Android uygulamalarının sabitlemesi kaldırılacaktır</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
+    <value>Android uygulamaları</value>
+  </data>
+  <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
+    <value>Uygulama listesinde gruplamayı etkinleştir</value>
+  </data>
+  <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
+    <value>Uygulama gruplaması</value>
+  </data>
+  <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
+    <value>Gelişmiş</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
+    <value>Uygulama listesinde klasik uygulamaları göster</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
+    <value>Bu ayarı kapattığınızda Ana Sayfa görünümündeki tüm klasik uygulamaların sabitlemesi kaldırılacaktır</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
+    <value>Klasik uygulamalar</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
+    <value>Tüm uygulamaları görmüyorsanız listeyi elle yenilemeyi deneyin</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
+    <value>Yenile</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
+    <value>Yenileniyor</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
+    <value>Uygulamaları yenile</value>
+  </data>
+  <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
+    <value>Uygulamalar görünümünde arama kutusunu göster</value>
+  </data>
+  <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
+    <value>Arama kutusu</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
+    <value>Ana sayfa görünümünde tüm uygulamaların sabitlemesini kaldır</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
+    <value>Tümünün sabitlemesini kaldır</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
+    <value>Sabitlemesini kaldır</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
+    <value>Sabitleme kaldırıldı</value>
+  </data>
+  <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
+    <value>Klavye kısayolunu özelleştir</value>
+  </data>
+  <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
+    <value>Etkinleştirme kısayolu</value>
+  </data>
+  <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
+    <value>Bluetooth cihaz ayarları</value>
+  </data>
+  <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
+    <value>Erişilebilirlik</value>
+  </data>
+  <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
+    <value>İlgili ayarlar</value>
+  </data>
+  <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
+    <value>Çalışma alanını gösteren klavye kısayolunu etkinleştir</value>
+  </data>
+  <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
+    <value>Aktivasyon kısayolunu etkinleştir</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
+    <value>Daha büyük</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
+    <value>Yazı boyutunu uygulamadaki içeriğe göre ayarla</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
+    <value>Yazı boyutu</value>
+  </data>
+  <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
+    <value>Kişisel sözlük ayarları</value>
+  </data>
+  <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
+    <value>Mürekkep ve yazma kişiselleştirmesi</value>
+  </data>
+  <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
+    <value>Kalem ve el yazısı ayarları</value>
+  </data>
+  <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
+    <value>Kalem ve Windows Ink</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
+    <value>Bu uygulamayı Windows görev çubuğuna sabitle</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
+    <value>Sabitlendi</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
+    <value>Görev çubuğuna sabitle</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
+    <value>Görev çubuğuna sabitle</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
+    <value>Oturum açtıktan sonra uygulamayı otomatik olarak çalıştır</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
+    <value>Ayarları Aç</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
+    <value>Başlangıçta çalıştır</value>
+  </data>
+  <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
+    <value>Sürükleyici ses deneyimini etkinleştir</value>
+  </data>
+  <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
+    <value>Sesler</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
+    <value>Sabitlenmiş uygulamaların kutucuk boyutlarını ayarla</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
+    <value>Küçük</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
+    <value>Uygulamaların kutucuk boyutları</value>
+  </data>
+  <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
+    <value>Arka planda Bing günlük duvar kağıdını göster</value>
+  </data>
+  <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
+    <value>Bing duvar kağıdı</value>
+  </data>
+  <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
+    <value>Seçenekler</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
+    <value>Sabitlediğiniz uygulamaların kutucukları</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
+    <value>Uygulamalar</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
+    <value>Ana sayfa görünümündeki ögeler hiçbir veri yoksa otomatik olarak gizlenebilir.</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
+    <value>Sabitlediğiniz hızlı eylemlerin kutucukları</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
+    <value>Hızlı eylemler</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
+    <value>Yakın zamanda açılan veya değiştirilen dosyalar</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
+    <value>Son kullanılan dosyalar</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
+    <value>Dijital kalem için önerilen uygulamalar</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
+    <value>Ana sayfaki ögelerin görünürlüğünü ve sırasını ayarla</value>
+  </data>
+  <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
+    <value>Belirtilen sayıda son kullanılan dosya göster</value>
+  </data>
+  <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
+    <value>Son kullanılan dosyalar</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
+    <value>Sabitlenen hızlı eylemlerin kutucuk boyutlarını ayarla</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
+    <value>Küçük</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
+    <value>Hızlı eylemlerin kutucuk boyutları</value>
+  </data>
+  <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
+    <value>Kullanıcı ayrıntıları bölümünde e-posta adresini göster</value>
+  </data>
+  <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
+    <value>Kullanıcının e-posta adresi</value>
+  </data>
+  <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
+    <value>Kullanıcının resim, isim ve e-posta adresi gibi detaylarını göster</value>
+  </data>
+  <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
+    <value>Kullanıcının detayları</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
+    <value>Uygulama pencerelerinin tarzını değiştir</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
+    <value>Uygulama tarzı</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
+    <value>Windows 10</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
+    <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
+    <value>Tuşlar ve durumlar</value>
+  </data>
+  <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
+    <value>Kalem bataryası durumunu çalışma alanında göster</value>
+  </data>
+  <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
+    <value>Kalem bataryası durumu</value>
+  </data>
+  <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
+    <value>Kalem ayarları tuşunu bağlam menüsünde ve atlama listesinde göster</value>
+  </data>
+  <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
+    <value>Kalem ayarları tuşu</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
+    <value>Alt orta</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
+    <value>Alt sol</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
+    <value>Alt sağ</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
+    <value>Uygulama pencerelerinin yerleşimini değiştir</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
+    <value>Yerleşim</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
+    <value>Üst orta</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
+    <value>Üst sol</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
+    <value>Üst sağ</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
+    <value>Uygulama ve hızlı eylem kutucukları için yuvarlatılmış köşeleri etkinleştir</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
+    <value>Kutucuklar için yuvarlatılmış köşeler</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
+    <value>Uygulama pencereleri için yuvarlatılmış köşeleri etkinleştir</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
+    <value>Pencereler için yuvarlatılmış köşeler</value>
+  </data>
+  <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
+    <value>Ayarlar tuşunu çalışma alanında göster</value>
+  </data>
+  <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
+    <value>Ayarlar tuşu</value>
+  </data>
+  <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
+    <value>Kaydı durdur tuşunu kayıt sırasında bağlam menüsünde ve atlama listesinde göster</value>
+  </data>
+  <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
+    <value>Kaydı durdur tuşu</value>
+  </data>
+  <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
+    <value>Ekran veya pencere çevresinde sarı kenarlık göster</value>
+  </data>
+  <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
+    <value>Kenarlık</value>
+  </data>
+  <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
+    <value>Gelişmiş</value>
+  </data>
+  <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
+    <value>Kaydediliyor</value>
+  </data>
+  <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
+    <value>Ekran Çizimi</value>
+  </data>
+  <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
+    <value>Bilgisayarı kapat</value>
+  </data>
+  <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
+    <value>Sistem işaretçisini kaydet</value>
+  </data>
+  <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
+    <value>İşaretçi</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Kaydı başlatan klavye kısayolunu etkinleştir</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Kaydı başlat kısayolunu etkinleştir</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Kaydı durduran klavye kısayolunu etkinleştir</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Kaydı durdur kısayolunu etkinleştir</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
+    <value>30 fps</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_60fps.Content" xml:space="preserve">
+    <value>60 fps</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
+    <value>Kayıt için kare sayısı seç</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
+    <value>Kare sayısı</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
+    <value>10 saniye</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
+    <value>3 saniye</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
+    <value>5 saniye</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
+    <value>Kayıt başlangıcını belirtilen saniye kadar geciktir</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
+    <value>Gecikme yok</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
+    <value>Başlangıç gecikmesi</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
+    <value>En iyi</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
+    <value>Kayıt için bir video kalitesi seç</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
+    <value>Yüksek</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
+    <value>Düşük</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
+    <value>Video kalitesi</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
+    <value>Tüm ekranları kaydet</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
+    <value>Çizim için kaydedilecek bir alan seç</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
+    <value>Yalnızca ana ekranı kaydet</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
+    <value>Kayıt alanı</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
+    <value>Bilgisayarı kapatmadan önce onaylama deneyimini göster</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
+    <value>Kapatma eylemi çağırıldıktan hemen sonra çalıştırılacaktır</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
+    <value>Bilgisayarı kapatmayı onayla</value>
+  </data>
+  <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Klavye kısayolunu özelleştir</value>
+  </data>
+  <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Kaydı başlat kısayolu</value>
+  </data>
+  <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Klavye kısayolunu özelleştir</value>
+  </data>
+  <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Kaydı durdur kısayolu</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
+    <value>Ana sayfa görünümünden tüm hızlı eylemlerin sabitlemesini kaldır</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
+    <value>Tümünün sabitlemesini kaldır</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
+    <value>Sabitlemeyi kaldır</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
+    <value>Sabitleme kaldırıldı</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
+    <value>Listeden tüm son kullanılan dosyaları kaldır</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
+    <value>Tümünü kaldır</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
+    <value>Kaldırıldı</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
+    <value>Tümünü kaldır</value>
+  </data>
+  <data name="Settings_Menu_About" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="Settings_Menu_Apps" xml:space="preserve">
+    <value>Uygulamalar</value>
+  </data>
+  <data name="Settings_Menu_General" xml:space="preserve">
+    <value>Genel</value>
+  </data>
+  <data name="Settings_Menu_Home" xml:space="preserve">
+    <value>Ana sayfa</value>
+  </data>
+  <data name="Settings_Menu_Personalization" xml:space="preserve">
+    <value>Kişiselleştirme</value>
+  </data>
+  <data name="Settings_Menu_QuickActions" xml:space="preserve">
+    <value>Hızlı eylemler</value>
+  </data>
+  <data name="Settings_Menu_RecentFiles" xml:space="preserve">
+    <value>Son kullanılan dosyalar</value>
+  </data>
+  <data name="Settings_WindowTitle.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="Suggested_Next.Text" xml:space="preserve">
+    <value>Sonraki</value>
+  </data>
+  <data name="Suggested_Title.Text" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="TrayIcon_Starting" xml:space="preserve">
+    <value>Başlatılıyor...</value>
+  </data>
+</root>
