@@ -758,10 +758,10 @@
     <value>60 fps</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
-    <value>녹화할 영상의 프레임레이트를 선택</value>
+    <value>녹화할 영상의 프레임레이트 선택</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
-    <value>프레임</value>
+    <value>프레임레이트</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
     <value>10초</value>
