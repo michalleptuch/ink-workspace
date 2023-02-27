@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="Apps_AllApps.Text" xml:space="preserve">
+    <value>Toate aplicațiile</value>
+  </data>
+  <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
+    <value>Tastați aici pentru a căuta</value>
+  </data>
+  <data name="Apps_MoveToFront.Text" xml:space="preserve">
+    <value>Mutați în față</value>
+  </data>
+  <data name="Apps_NoResultsFound" xml:space="preserve">
+    <value>Nu s-au găsit rezultate pentru '{0}'</value>
+  </data>
+  <data name="Apps_Title.Text" xml:space="preserve">
+    <value>Aplicații</value>
+  </data>
+  <data name="Apps_Unpin.Text" xml:space="preserve">
+    <value>Desprindeți</value>
+  </data>
+  <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
+    <value>Setări stilou</value>
+  </data>
+  <data name="ContextMenu_Quit.Text" xml:space="preserve">
+    <value>Iesiți</value>
+  </data>
+  <data name="ContextMenu_Settings.Text" xml:space="preserve">
+    <value>Setări</value>
+  </data>
+  <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
+    <value>Opriți înregistrarea</value>
+  </data>
+  <data name="CultureInfo" xml:space="preserve">
+    <value>ro-RO</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="FirstRunExperience_Close" xml:space="preserve">
+    <value>Închideți</value>
+  </data>
+  <data name="FirstRunExperience_Next.Content" xml:space="preserve">
+    <value>Următorul</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
+    <value>Bun venit</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
+    <value>Hai să învățăm cum să folosim această aplicație ca un profesionist</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
+    <value>Puteți deschide Ink Workspace folosind pictograma din tray. Ar trebui să fie lângă ceas.</value>
+  </data>
+  <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
+    <value>Pictograma poate fi ascunsă. Dacă nu o vedeți, încercați să faceți clic sau să atingeți butonul săgeată.</value>
+  </data>
+  <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
+    <value>Utilizați pictograma în tray</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
+    <value>Puteți deschide Ink Workspace direct din bara de activități. Doar fixați-l.</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
+    <value>Faceți clic dreapta sau atingeți și apăsați pictograma pentru a deschide lista de accesare. Conține o listă de comenzi esențiale.</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
+    <value>Fixați aplicația în bara de activități</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
+    <value>Ink Workspace vă permite să ajustați setările de personalizare, să activați sau să dezactivați comenzile rapide de la tastatură, să gestionați aplicațiile și multe altele.</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
+    <value>Puteți găsi pictograma setărilor în spațiul de lucru, meniul contextual al pictogramei tray și jumplist.</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
+    <value>Ajustați setările</value>
+  </data>
+  <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
+    <value>Închideți această fereastră pentru a finaliza configurarea Ink Workspace</value>
+  </data>
+  <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
+    <value>Aproape gata...</value>
+  </data>
+  <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
+    <value>Sari</value>
+  </data>
+  <data name="JumpList_PenSettings" xml:space="preserve">
+    <value>Setări stilou</value>
+  </data>
+  <data name="JumpList_QuitApp" xml:space="preserve">
+    <value>Închideți</value>
+  </data>
+  <data name="JumpList_Settings" xml:space="preserve">
+    <value>Setări</value>
+  </data>
+  <data name="JumpList_StopRecording" xml:space="preserve">
+    <value>Opriți înregistrarea</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Salvați</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Anulați</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
+    <value>Editați comenzi rapide</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
+    <value>Apăsați o combinație de taste pentru a schimba această comandă rapidă</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
+    <value>Doar comenzi rapide care încep cu</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
+    <value>tasta Windows</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
+    <value>Ctrl</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info4.Text" xml:space="preserve">
+    <value>Alt</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
+    <value>sau</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
+    <value>sunt valide.</value>
+  </data>
+  <data name="Market" xml:space="preserve">
+    <value>US</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Aplicații</value>
+  </data>
+  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Acasă</value>
+  </data>
+  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Acțiuni rapide</value>
+  </data>
+  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Fișiere recente</value>
+  </data>
+  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Setări</value>
+  </data>
+  <data name="QuickActions_Action_Cast" xml:space="preserve">
+    <value>Distribuiți</value>
+  </data>
+  <data name="QuickActions_Action_Clipboard" xml:space="preserve">
+    <value>Clipboard</value>
+  </data>
+  <data name="QuickActions_Action_Connect" xml:space="preserve">
+    <value>Conectați</value>
+  </data>
+  <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
+    <value>Panou emoji</value>
+  </data>
+  <data name="QuickActions_Action_GameBar" xml:space="preserve">
+    <value>Game bar</value>
+  </data>
+  <data name="QuickActions_Action_LockDevice" xml:space="preserve">
+    <value>Blocați dispozitiv</value>
+  </data>
+  <data name="QuickActions_Action_Magnifier" xml:space="preserve">
+    <value>Lupă</value>
+  </data>
+  <data name="QuickActions_Action_Narrator" xml:space="preserve">
+    <value>Narator</value>
+  </data>
+  <data name="QuickActions_Action_Project" xml:space="preserve">
+    <value>Proiectați</value>
+  </data>
+  <data name="QuickActions_Action_Recording" xml:space="preserve">
+    <value>Înregistrați un ecran sau o fereastră</value>
+  </data>
+  <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
+    <value>Coș de gunoi</value>
+  </data>
+  <data name="QuickActions_Action_Run" xml:space="preserve">
+    <value>Rulați</value>
+  </data>
+  <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
+    <value>Schiță pe ecran</value>
+  </data>
+  <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
+    <value>Arată desktop</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown" xml:space="preserve">
+    <value>Închideți</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
+    <value>Hibernare</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
+    <value>Reporniți</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
+    <value>Faceți o captură de ecran</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
+    <value>Întârziere pentru 10 secunde</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
+    <value>Întârziere pentru 15 secunde</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
+    <value>Întârziere pentru 3 secunde</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
+    <value>Întârziere pentru 5 secunde</value>
+  </data>
+  <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
+    <value>Touchpad virtual</value>
+  </data>
+  <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
+    <value>Tastare vocală</value>
+  </data>
+  <data name="QuickActions_More.Text" xml:space="preserve">
+    <value>Mai mult</value>
+  </data>
+  <data name="QuickActions_Title.Text" xml:space="preserve">
+    <value>Acțiuni rapide</value>
+  </data>
+  <data name="QuickActions_Unpin.Text" xml:space="preserve">
+    <value>Desprindeți</value>
+  </data>
+  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Respingeți</value>
+  </data>
+  <data name="RateAndReview_Title.Text" xml:space="preserve">
+    <value>Evaluați această aplicație</value>
+  </data>
+  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Scrieți o recenzie</value>
+  </data>
+  <data name="RecentFiles_More.Text" xml:space="preserve">
+    <value>Mai mult</value>
+  </data>
+  <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
+    <value>Cu cât folosiți mai mult dispozitivul, cu atât îți vor fi afișate mai multe fișiere recente</value>
+  </data>
+  <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
+    <value>Deschideți locația fișierului</value>
+  </data>
+  <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
+    <value>Eliminați din listă</value>
+  </data>
+  <data name="RecentFiles_Title.Text" xml:space="preserve">
+    <value>Fișiere recente</value>
+  </data>
+  <data name="RecordingFileName" xml:space="preserve">
+    <value>Înregistrare</value>
+  </data>
+  <data name="RecordingStatus_Recording.Text" xml:space="preserve">
+    <value>Înregistrare...</value>
+  </data>
+  <data name="RecordingStatus_Stop.Text" xml:space="preserve">
+    <value>Opriți</value>
+  </data>
+  <data name="Recording_Cancel.Content" xml:space="preserve">
+    <value>Anulați</value>
+  </data>
+  <data name="Recording_Skip.Content" xml:space="preserve">
+    <value>Săriți</value>
+  </data>
+  <data name="Recording_Starting.Text" xml:space="preserve">
+    <value>Pornire...</value>
+  </data>
+  <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
+    <value>Suport E-mail</value>
+  </data>
+  <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
+    <value>Părere</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
+    <value>Următoarele biblioteci au fost utilizate în această aplicație:</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
+    <value>Biblioteci</value>
+  </data>
+  <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
+    <value>Aplicațiile mele</value>
+  </data>
+  <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
+    <value>Evaluați și revizuiți</value>
+  </data>
+  <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
+    <value>Aplicația Mica For Everyone poate face ca ferestrele aplicației să fie afișate incorect. În acest caz, adăugați noile reguli pentru procesele InkWorkspace.Wpf și InkWorkspace.Recording și setați valorile implicite.</value>
+  </data>
+  <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
+    <value>Depanare</value>
+  </data>
+  <data name="SettingsAbout_Version.Text" xml:space="preserve">
+    <value>Versiune:</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
+    <value>Afișați aplicațiile Android în lista de aplicații</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
+    <value>Toate aplicațiile Android vor fi desprinse din vizualizarea Acasă când dezactivați această setare</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
+    <value>Aplicații Android</value>
+  </data>
+  <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
+    <value>Activați gruparea pe lista de aplicații</value>
+  </data>
+  <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
+    <value>Gruparea aplicațiilor</value>
+  </data>
+  <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
+    <value>Advansate</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
+    <value>Afișați aplicațiile clasice pe lista de aplicații</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
+    <value>Toate aplicațiile clasice vor fi desprinse din vizualizarea Acasă când dezactivați această setare</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
+    <value>Aplicații clasice</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
+    <value>Dacă nu vedeți toate aplicațiile, încercați să reîmprospătați lista manual</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
+    <value>Reîmprospătați</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
+    <value>Reîmprospătare</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
+    <value>Reîmprospătați aplicațiile</value>
+  </data>
+  <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
+    <value>Afișați caseta de căutare în vizualizarea Aplicații</value>
+  </data>
+  <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
+    <value>Caseta de căutare</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
+    <value>Desprindeți toate aplicațiile din vizualizarea Acasă</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
+    <value>Desprindeți tot</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
+    <value>Desprindeți</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
+    <value>Desprinse</value>
+  </data>
+  <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
+    <value>Personalizați comanda rapidă de la tastatură</value>
+  </data>
+  <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
+    <value>Comandă rapidă de activare</value>
+  </data>
+  <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
+    <value>Setări dispozitive Bluetooth</value>
+  </data>
+  <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
+    <value>Accessibilitate</value>
+  </data>
+  <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
+    <value>Setări aferente</value>
+  </data>
+  <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
+    <value>Activați comanda rapidă de la tastatură care arată spațiul de lucru</value>
+  </data>
+  <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
+    <value>Activați comanda rapidă de activare</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
+    <value>Mai mare</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
+    <value>Setați dimensiunea fontului pentru conținutul din aplicație</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
+    <value>Mărimea fontului</value>
+  </data>
+  <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
+    <value>Setări dicționar personal</value>
+  </data>
+  <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
+    <value>Personalizare cerneală și tastare</value>
+  </data>
+  <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
+    <value>Setări cerneală și tastare</value>
+  </data>
+  <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
+    <value>Stilou &amp; Windows Ink</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
+    <value>Fixați această aplicație în bara de activități Windows</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
+    <value>Fixat</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
+    <value>Fixați la bara de activități</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
+    <value>Fixați la bara de activități</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
+    <value>Rulați aplicația automat după ce vă conectați</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
+    <value>Deschideți setările</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
+    <value>Rulați la pornire</value>
+  </data>
+  <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
+    <value>Activați experiența audio imersivă</value>
+  </data>
+  <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
+    <value>Sunete</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
+    <value>Setați dimensiunea plăcilor aplicațiilor fixate</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
+    <value>Mediu</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
+    <value>Mic</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
+    <value>Dimensiunea plăcilor aplicațiilor</value>
+  </data>
+  <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
+    <value>Afișați imaginea de fundal zilnică Bing în fundal</value>
+  </data>
+  <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
+    <value>Imagine Bing</value>
+  </data>
+  <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
+    <value>Opțiuni</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
+    <value>Plăci de aplicații ai fixat</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
+    <value>Aplicații</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
+    <value>Elementele din vizualizarea Acasă se pot ascunde automat atunci când nu sunt disponibile date.</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
+    <value>Plăci de acțiuni rapide pe care le-ați fixat</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
+    <value>Acțiuni rapide</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
+    <value>Fișiere deschise sau modificate recent</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
+    <value>Fișiere recente</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
+    <value>Aplicații recomandate pentru stilou digital</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
+    <value>Sugerat</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
+    <value>Setați vizibilitatea și ordinea elementelor în ecranul de pornire</value>
+  </data>
+  <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
+    <value>Afișați un anumit număr de fișiere recente</value>
+  </data>
+  <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
+    <value>Fișiere recente</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
+    <value>Setați dimensiunea plăcilor acțiunilor rapide fixate</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
+    <value>Mediu</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
+    <value>Mic</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
+    <value>Dimensiunea plăcilor acțiunilor rapide</value>
+  </data>
+  <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
+    <value>Afișați adresa de e-mail în secțiunea detalii utilizator</value>
+  </data>
+  <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
+    <value>Adresa de e-mail a utilizatorului</value>
+  </data>
+  <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
+    <value>Afișați detaliile utilizatorului, cum ar fi imaginea, numele și adresa de e-mail</value>
+  </data>
+  <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
+    <value>Detalii Utilizatorului</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
+    <value>Schimbați stilul ferestrelor aplicației</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
+    <value>Stil aplicație</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
+    <value>Windows 10</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
+    <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
+    <value>Butoane și stări</value>
+  </data>
+  <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
+    <value>Afișați starea bateriei stiloului în spațiul de lucru</value>
+  </data>
+  <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
+    <value>Stare baterie stilou</value>
+  </data>
+  <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
+    <value>Afișați butonul Setări stilou în meniul contextual și lista de acces</value>
+  </data>
+  <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
+    <value>Buton setări stilou</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
+    <value>Centru jos</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
+    <value>Stânga jos</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
+    <value>Dreapta jos</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
+    <value>Schimbați amplasarea ferestrelor aplicației</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
+    <value>Amplasare</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
+    <value>Centru sus</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
+    <value>Stânga sus</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
+    <value>Dreapta sus</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
+    <value>Activați colțurile rotunjite pentru plăcile de aplicații și acțiunile rapide</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
+    <value>Colțuri rotunjite pentru plăci</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
+    <value>Activați colțurile rotunjite pentru ferestrele aplicației</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
+    <value>Colțuri rotunjite pentru ferestre</value>
+  </data>
+  <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
+    <value>Afișați butonul Setări în spațiul de lucru</value>
+  </data>
+  <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
+    <value>Buton Setări</value>
+  </data>
+  <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
+    <value>Afișați butonul Opriți înregistrarea în meniul contextual și lista de salt în timpul înregistrării</value>
+  </data>
+  <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
+    <value>Buton Opriți înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
+    <value>Afișați un chenar galben în jurul ecranului sau ferestrei</value>
+  </data>
+  <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
+    <value>Chenar</value>
+  </data>
+  <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
+    <value>Avansat</value>
+  </data>
+  <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
+    <value>Înregistrare</value>
+  </data>
+  <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
+    <value>Schiță pe ecran</value>
+  </data>
+  <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
+    <value>Închide</value>
+  </data>
+  <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
+    <value>Înregistrați cursorul sistemului</value>
+  </data>
+  <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
+    <value>Cursor</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Activați comanda rapidă de la tastatură care începe înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Activați comanda rapidă Start înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Activați comanda rapidă de la tastatură care oprește înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Activați comanda rapidă Opriți înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
+    <value>30 fps</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_60fps.Content" xml:space="preserve">
+    <value>60 fps</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
+    <value>Alegeți o rată de cadre de înregistrare</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
+    <value>Rata de cadre</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
+    <value>10 secunde</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
+    <value>3 secunde</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
+    <value>5 secunde</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
+    <value>Întârzie începerea înregistrării pentru un număr specificat de secunde</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
+    <value>Fără întârziere</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
+    <value>Întârziere de pornire</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
+    <value>Cea mai bună</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
+    <value>Alegeți o calitate video a înregistrării</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
+    <value>Înaltă</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
+    <value>Joasă</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
+    <value>Medie</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
+    <value>Calitatea video</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
+    <value>Capturați toate ecranele</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
+    <value>Alegeți o zonă care ar trebui să fie capturată pentru schiță</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
+    <value>Capturați numai ecranul principal</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
+    <value>Zona de capturare</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
+    <value>Arată experiența de confirmare înainte de a închide </value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
+    <value>Acțiunea de oprire va fi executată imediat după invocare</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
+    <value>Confirmați închiderea</value>
+  </data>
+  <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Personalizați comanda rapidă de la tastatură</value>
+  </data>
+  <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>>Comandă rapidă porniți înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>Personalizați comanda rapidă de la tastatură</value>
+  </data>
+  <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>Comandă rapidă opriți înregistrarea</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
+    <value>Desprindeți toate acțiunile rapide din vizualizarea Acasă</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
+    <value>Desprindeți tot</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
+    <value>Desprindeți</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
+    <value>Desprins</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
+    <value>Eliminați toate fișierele recente din listă</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
+    <value>Eliminați tot</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
+    <value>Eliminat</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
+    <value>Eliminați tot</value>
+  </data>
+  <data name="Settings_Menu_About" xml:space="preserve">
+    <value>Despre</value>
+  </data>
+  <data name="Settings_Menu_Apps" xml:space="preserve">
+    <value>Aplicații</value>
+  </data>
+  <data name="Settings_Menu_General" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="Settings_Menu_Home" xml:space="preserve">
+    <value>Acasă</value>
+  </data>
+  <data name="Settings_Menu_Personalization" xml:space="preserve">
+    <value>Personalizare</value>
+  </data>
+  <data name="Settings_Menu_QuickActions" xml:space="preserve">
+    <value>Acțiuni rapide</value>
+  </data>
+  <data name="Settings_Menu_RecentFiles" xml:space="preserve">
+    <value>Fișiere recente</value>
+  </data>
+  <data name="Settings_WindowTitle.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="Suggested_Next.Text" xml:space="preserve">
+    <value>Următorul</value>
+  </data>
+  <data name="Suggested_Title.Text" xml:space="preserve">
+    <value>Sugerate</value>
+  </data>
+  <data name="TrayIcon_Starting" xml:space="preserve">
+    <value>Se pornește...</value>
+  </data>
+</root>
