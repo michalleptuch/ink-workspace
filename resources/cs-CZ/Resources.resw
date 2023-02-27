@@ -176,7 +176,7 @@
     <value>Ink Workspace můžete otevřít pomocí ikony systému. Měla by být vedle hodin.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>Ikona může být schovaná. Pokud ji nevidíte, zkuste kliknout nebo zmáčknout šipku zobrazení skrytých ikon.</value>
+    <value>Ikona může být skrytá. Pokud ji nevidíte, zkuste kliknout nebo zmáčknout šipku zobrazení skrytých ikon.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
     <value>Použít ikonu systému</value>
