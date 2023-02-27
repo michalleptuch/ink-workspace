@@ -152,7 +152,7 @@
     <value>Kaydı durdur</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>en-US</value>
+    <value>tr-TR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
@@ -250,10 +250,10 @@
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value></value>
+    <value>.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>US</value>
+    <value>TR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
