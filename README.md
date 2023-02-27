@@ -18,4 +18,6 @@ Spanish (Spain): [@qrbt_ok](https://twitter.com/qrbt_ok)
 
 ## New translations
 Chinese: [@ZHang233-ai](https://github.com/ZHang233-ai)  
+Czech: [@Vaki21] (https://github.com/Vaki21)  
 French: [@FJduFou](https://github.com/FJduFou)  
+Korean: [@jonghyunii](https://github.com/jonghyunii)  
