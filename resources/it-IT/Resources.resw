@@ -122,47 +122,47 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Apps_AllApps.Text" xml:space="preserve">
-    <value>All apps</value>
+    <value>Tutte le app</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Type here to search</value>
+    <value>Scrivi per eseguire la ricerca</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>Move to front</value>
+    <value>Muovi in avanti</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>No results found for '{0}'</value>
+    <value>Nessun risultato trovato per '{0}'</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>Apps</value>
+    <value>App</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
-    <value>Unpin</value>
+    <value>Rimuovi</value>
   </data>
   <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
-    <value>Pen settings</value>
+    <value>Impostazioni penna</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>Quit</value>
+    <value>Esci</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Impostazioni</value>
   </data>
   <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
-    <value>Stop recording</value>
+    <value>Ferma registrazione</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
     <value>en-US</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Chiudi</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>Successivo</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Benvenuto</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
     <value>Let's learn how to use this app like a pro</value>
