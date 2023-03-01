@@ -134,7 +134,7 @@
     <value>Aucun résultat trouvé pour '{0}'.</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>Apps</value>
+    <value>Applications</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
     <value>Désépingler</value>
