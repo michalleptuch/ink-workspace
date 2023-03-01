@@ -184,7 +184,7 @@
     <value>Ink Workspace můžete otevřít přímo z hlavního panelu. Jen ji připněte.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Klikněte pravým tlačítkem myši nebo přidržte ikonu pro otevření seznamu odkazů. Tento list obsahuje základní příkazy.</value>
+    <value>Klikněte pravým tlačítkem myši nebo přidržte ikonu pro otevření seznamu odkazů. Tento seznam obsahuje základní příkazy.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
     <value>Připnout na hlavní panel</value>
@@ -405,7 +405,7 @@
     <value>Zpětná vazba</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>Následující knihovny byly použity v této aplikaci:</value>
+    <value>V této aplikaci byly použity následující knihovny:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
     <value>Knihovny</value>
@@ -486,7 +486,7 @@
     <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Activační zkratka</value>
+    <value>Aktivační zkratka</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
     <value>Nastavení zařízení bluetooth</value>
@@ -767,7 +767,7 @@
     <value>10 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
-    <value>3 sekundy</value>
+    <value>3 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
     <value>5 sekund</value>
