@@ -156,7 +156,7 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>Pular</value>
+    <value>Fechar</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
     <value>Próximo</value>
@@ -205,7 +205,7 @@
     <value>Quase pronto...</value>
   </data>
   <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
-    <value>Fechar</value>
+    <value>Pular</value>
   </data>
   <data name="JumpList_PenSettings" xml:space="preserve">
     <value>Configurações da caneta</value>
@@ -226,7 +226,7 @@
     <value>Cancelar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Editar atalhos</value>
+    <value>Editar atalho</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
     <value>Pressione uma combinação de teclas para alterar este atalho</value>
@@ -281,7 +281,7 @@
     <value>Conectar</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>painel de Emoji</value>
+    <value>Painel de Emoji</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
     <value>Barra de jogos</value>
@@ -308,7 +308,7 @@
     <value>Executar</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>rabiscar na tela</value>
+    <value>Rabiscar na tela</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
     <value>Mostrar área de trabalho</value>
@@ -426,10 +426,10 @@
     <value>Versão:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>Mostar os apps de Androidna lista de apps</value>
+    <value>Mostar os apps de Android na lista de apps</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>Todos os apps Android serão desafixados da aba Início quando você desligar esta configuração</value>
+    <value>Todos os apps Android serão desafixados da aba Início quando você desativar esta configuração</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
     <value>Apps Android</value>
@@ -447,7 +447,7 @@
     <value>Mostrar apps clásicos na lista de apps</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>Todos os apps clássicos serão desafixados da aba Início quando você desligar esta configuração</value>
+    <value>Todos os apps clássicos serão desafixados da aba Início quando você desativar esta configuração</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
     <value>Apps Clássicos</value>
@@ -471,7 +471,7 @@
     <value>Caixa de pesquisa</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Desafixar todos apps da aba Início</value>
+    <value>Desafixar todos os apps da aba Início</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
     <value>Desafixar todos</value>
@@ -483,7 +483,7 @@
     <value>Desafixados</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Customizar atalhos de teclado</value>
+    <value>Customizar atalho de teclado</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
     <value>Atalho de ativação</value>
@@ -585,7 +585,7 @@
     <value>Apps</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>Os conjuntos na aba Início podem ser ocultados automaticamente quando não existir informações.</value>
+    <value>Os itens da aba Início podem ser ocultados automaticamente quando não existir informações.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
     <value>Conjunto de ações rápidas fixadas</value>
@@ -594,7 +594,7 @@
     <value>Ações rápidas</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Arquivos abertos ou modificados recentemente</value>
+    <value>Lista de arquivos abertos ou modificados recentemente</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
     <value>Arquivos recentes</value>
@@ -615,7 +615,7 @@
     <value>Arquivos recentes</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>Ajustar o tamanho dos blocos da ações rápidas fixadas</value>
+    <value>Ajustar o tamanho dos blocos das ações rápidas fixadas</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
     <value>Médio</value>
@@ -716,10 +716,10 @@
     <value>Botão parar gravação</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
-    <value>Mostrar borda amarela na janela ou tela</value>
+    <value>Mostrar borda amarela na janela ou tela que está sendo gravada</value>
   </data>
   <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
-    <value>Borda</value>
+    <value>Borda destacada</value>
   </data>
   <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
     <value>Avançado</value>
@@ -734,7 +734,7 @@
     <value>Desligar</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
-    <value>Gravar cursor do sistema</value>
+    <value>Gravar o cursor do sistema</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
     <value>Cursor</value>
@@ -854,7 +854,7 @@
     <value>Removidos</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
-    <value>Remover tudo</value>
+    <value>Limpar lista de arquivos recentes</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
     <value>Sobre</value>
