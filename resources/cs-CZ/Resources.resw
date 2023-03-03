@@ -543,7 +543,7 @@
     <value>Připnout na hlavní panel</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Spustit automaticky po přihlášení</value>
+    <value>Spustit automaticky při přihlášení do Windows</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
     <value>Otevřít nastavení</value>
