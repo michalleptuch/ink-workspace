@@ -128,7 +128,7 @@
     <value>Scrivi per eseguire la ricerca</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>Muovi in avanti</value>
+    <value>Sposta all'inizio</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Nessun risultato trovato per '{0}'</value>
@@ -159,7 +159,7 @@
     <value>Chiudi</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>Successivo</value>
+    <value>Avanti</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
     <value>Benvenuto</value>
@@ -172,34 +172,34 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>You can open Ink Workspace using tray icon. It should be put next to the clock.</value>
+    <value>Puoi aprire Ink Workspace usando le icone poste vicino l'orologio nella barra delle applicazioni</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>The icon may be hidden. If you don't see it, try to click or tap on the arrow button.</value>
+    <value>L'icona potrebbe non essere disponibile, in tal caso clicca sulla freccetta verso l'alto</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
-    <value>Use tray icon</value>
+    <value>Usa icona nella barra delle applicazioni</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>You can open Ink Workspace directly from taskbar. Just pin it.</value>
+    <value>Puoi aprire Ink Workspace direttamente dalla barra delle applicazioni aggiungendolo ad essa</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Righ-click or tap and press the icon to open jump list. It contains list of essential commands.</value>
+    <value>Clicca il tasto destro per aprire un menu che ti consente di visualizzare le opzioni essenziali</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
-    <value>Pin app to taskbar</value>
+    <value>Aggiungi app alla barra delle applicazioni</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace allows you to adjust personalization settings, enable or disable keyboard shortcuts, manage apps and more.</value>
+    <value>Ink Workspace ti permette di personalizzare l'app, abilitare scorciatoie da tastiera, gestire le app e altro ancora</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>You can find settings icon in workspace, context menu of tray icon and jump list.</value>
+    <value>Puoi trovare le impostazioni tramite l'app o il menu della barra delle applicazioni</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
-    <value>Adjust settings</value>
+    <value>Aggiusta impostazioni</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Close this window to finish configuration of Ink Workspace</value>
+    <value>Chiudi questa finestra per terminare la configurazione di Ink Workspace</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
     <value>Quasi pronto...</value>
@@ -229,13 +229,13 @@
     <value>Modifica scorciatoia</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Press a combination of keys to change this shortcut</value>
+    <value>Premi una combinazione di tasti per modificare la scorciatoia</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Only shortcuts that start with</value>
+    <value>Solo scorciatoie che iniziano con</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows key</value>
+    <value>Tasto Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -244,405 +244,405 @@
     <value>Alt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>or</value>
+    <value>o</value>
   </data>
   <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>are valid.</value>
+    <value>sono validi.</value>
   </data>
   <data name="Market" xml:space="preserve">
     <value>US</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Apps</value>
+    <value>App</value>
   </data>
   <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
     <value>Home</value>
   </data>
   <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Quick actions</value>
+    <value>Azioni rapide</value>
   </data>
   <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Recent files</value>
+    <value>File recenti</value>
   </data>
   <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Settings</value>
+    <value>Impostazioni</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Cast</value>
+    <value>Trasmetti</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
-    <value>Clipboard</value>
+    <value>Appunti</value>
   </data>
   <data name="QuickActions_Action_Connect" xml:space="preserve">
-    <value>Connect</value>
+    <value>Connetti</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>Emoji panel</value>
+    <value>Pannello emoji</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
-    <value>Game bar</value>
+    <value>Barra di gioco</value>
   </data>
   <data name="QuickActions_Action_LockDevice" xml:space="preserve">
-    <value>Lock device</value>
+    <value>Blocca dispositivo</value>
   </data>
   <data name="QuickActions_Action_Magnifier" xml:space="preserve">
-    <value>Magnifier</value>
+    <value>Lente di ingrandimento</value>
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
-    <value>Narrator</value>
+    <value>Assistente vocale</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>Project</value>
+    <value>Proietta</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>Record a screen or window</value>
+    <value>Registra schermo o finestra</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
-    <value>Recycle Bin</value>
+    <value>Cestino</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
-    <value>Run</value>
+    <value>Esegui</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>Screen Sketch</value>
+    <value>Cattura schermo</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
-    <value>Show desktop</value>
+    <value>Mostra desktop</value>
   </data>
   <data name="QuickActions_Action_ShutDown" xml:space="preserve">
-    <value>Shut down</value>
+    <value>Arresta</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
-    <value>Hibernate</value>
+    <value>Iberna</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
-    <value>Restart</value>
+    <value>Riavvia</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
-    <value>Take a screenshot</value>
+    <value>Cattura screenshot</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>Delay for 10 secs</value>
+    <value>Ritarda di 10 secondi</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
-    <value>Delay for 15 secs</value>
+    <value>Ritarda di 15 secondi</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
-    <value>Delay for 3 secs</value>
+    <value>Ritarda di 3 secondi</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
-    <value>Delay for 5 secs</value>
+    <value>Ritarda di 5 secondi</value>
   </data>
   <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
-    <value>Virtual touchpad</value>
+    <value>Touchpad virtuale</value>
   </data>
   <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
-    <value>Voice typing</value>
+    <value>Digitazione vocale</value>
   </data>
   <data name="QuickActions_More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Altro</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>Quick actions</value>
+    <value>Azioni rapide</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
-    <value>Unpin</value>
+    <value>Rimuovi</value>
   </data>
   <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Chiudi</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Rate this app</value>
+    <value>Valuta quest'app</value>
   </data>
   <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Write a review</value>
+    <value>Scrivi una recensione</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Altro</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>The more you use your device, the more recent files will show you</value>
+    <value>Più usi il tuo dispositivo e più file recenti verranno mostrati</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
-    <value>Open file location</value>
+    <value>Apri percorso file</value>
   </data>
   <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
-    <value>Remove from list</value>
+    <value>Rimuovi dalla lista</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>Recent files</value>
+    <value>File recenti</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
-    <value>Recording</value>
+    <value>Registrazione</value>
   </data>
   <data name="RecordingStatus_Recording.Text" xml:space="preserve">
-    <value>Recording...</value>
+    <value>Registrazione in corso...</value>
   </data>
   <data name="RecordingStatus_Stop.Text" xml:space="preserve">
-    <value>Stop</value>
+    <value>Ferma</value>
   </data>
   <data name="Recording_Cancel.Content" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancella</value>
   </data>
   <data name="Recording_Skip.Content" xml:space="preserve">
-    <value>Skip</value>
+    <value>Salta</value>
   </data>
   <data name="Recording_Starting.Text" xml:space="preserve">
-    <value>Starting...</value>
+    <value>Avvio registrazione...</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Email support</value>
+    <value>Invia email di supporto</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
     <value>Feedback</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>The following libraries have been used in this app:</value>
+    <value>Le seguenti librerie sono usate in quest'app:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>Libraries</value>
+    <value>Librerie</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>My apps</value>
+    <value>Le mie app</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>Rate and review</value>
+    <value>Vota e recensisci</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Mica For Everyone app may cause the app windows to be displayed incorrectly. In this case, add the new rules for InkWorkspace.Wpf and InkWorkspace.Recording processes and set default values.</value>
+    <value>L'app Mica For Everyone può causare il malfunzionamento di Ink Workspace. In caso, aggiungi nuove regole nei processi InkWorkspace.Wpf e InkWorkspace.Recording e impostane i valori predefiniti.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
-    <value>Troubleshooting</value>
+    <value>Risoluzione problemi</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>Version:</value>
+    <value>Versione:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>Show Android apps on the list of apps</value>
+    <value>Mostra app Android nella lista delle app</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>All Android apps will be unpinned from Home view when you turn off this setting</value>
+    <value>Se disattivato, tutte le app Android saranno rimosse della Home</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
-    <value>Android apps</value>
+    <value>App Android</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
-    <value>Enable grouping on the list of apps</value>
+    <value>Raggruppa le app nella lista delle app</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>Apps grouping</value>
+    <value>Raggruppa app</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
-    <value>Advanced</value>
+    <value>Avanzate</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Show classic apps on the list of apps</value>
+    <value>Mostra app classiche nella lista delle app</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>All classic apps will be unpinned from Home view when you turn off this setting</value>
+    <value>Se disattivato, tutte le app classiche verranno rimosse dall'elenco delle app</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
-    <value>Classic apps</value>
+    <value>App classiche</value>
   </data>
   <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
-    <value>If you don't see all apps, try to refresh the list manually</value>
+    <value>Se non vedi tutte le app, prova ad aggiornare l'elenco manualmente</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Aggiorna</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>Refreshing</value>
+    <value>Aggiornamento</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
-    <value>Refresh apps</value>
+    <value>Aggiorna app</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>Show search box in Apps view</value>
+    <value>Mostra barra di ricerca nella lista delle app</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
-    <value>Search box</value>
+    <value>Barra di ricerca</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Unpin all apps from Home view</value>
+    <value>Rimuovi tutte le app dalla Home</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Unpin all</value>
+    <value>Rimuovi app</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Unpin</value>
+    <value>Rimuovi</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Unpinned</value>
+    <value>App rimosse</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Customize keyboard shortcut</value>
+    <value>Personalizza scorciatoia d'attivazione</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Activation shortcut</value>
+    <value>Scorciatoia d'attivazione</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
-    <value>Bluetooth devices settings</value>
+    <value>Impostazioni dispositivi Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
     <value>Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
-    <value>Accessibility</value>
+    <value>Accessibilità</value>
   </data>
   <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
-    <value>Related settings</value>
+    <value>Impostazioni correlate</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Enable keyboard shortcut that shows workspace</value>
+    <value>Abilita scorciatoia da tastiera che mostra la finestra dell'app</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Enable activation shortcut</value>
+    <value>Abilita scorciatoia d'attivazione</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
-    <value>Bigger</value>
+    <value>Grande</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>Set font size for content in app</value>
+    <value>Imposta dimensione carattere dell'app</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
-    <value>Normal</value>
+    <value>Normale</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>Font size</value>
+    <value>Dimensione carattere</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
-    <value>Personal dictionary settings</value>
+    <value>Impostazioni dizionario personalizzato</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>Inking &amp; typing personalization</value>
+    <value>Personalizzazione input penna e digitazione</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>Pen &amp; handwriting settings</value>
+    <value>Impostazioni penna e scrittura</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>Pen &amp; Windows Ink</value>
+    <value>Penna e Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>Pin this app to the Windows taskbar</value>
+    <value>Aggiungi app alla barra delle applicazioni</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
-    <value>Pinned</value>
+    <value>Aggiunta</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
-    <value>Pin to taskbar</value>
+    <value>Aggiungi alla barra delle applicazioni</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
-    <value>Pin to taskbar</value>
+    <value>Aggiungi alla barra delle applicazioni</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Run app automatically after you log in</value>
+    <value>Esegui app automaticamente all'avvio del dispositivo</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>Open Settings</value>
+    <value>Apri impostazioni</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>Run at startup</value>
+    <value>Esegui all'avvio</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>Enable immersive audio experience</value>
+    <value>Abilita esperienza immersiva audio</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
-    <value>Sounds</value>
+    <value>Suoni</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>Set the tiles size of pinned apps</value>
+    <value>Imposta la dimensione dei riquadri delle app</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Medium</value>
+    <value>Media</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
-    <value>Small</value>
+    <value>Piccola</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
-    <value>Tiles size of apps</value>
+    <value>Dimensione riquadri app</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>Show Bing daily wallpaper in the background</value>
+    <value>Mostra lo sfondo giornaliero di Bing come sfondo</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
-    <value>Bing wallpaper</value>
+    <value>Sfondo di Bing</value>
   </data>
   <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
-    <value>Options</value>
+    <value>Opzioni</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>Tiles of apps you pinned</value>
+    <value>App aggiunte</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
-    <value>Apps</value>
+    <value>App</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>The elements in the Home view may hide automatically when no data is available.</value>
+    <value>Gli elementi della Home potrebbero nascondersi automaticamente se non sono disponibili informazioni.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Tiles of quick actions you pinned</value>
+    <value>Azioni rapide aggiunte/value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>Quick actions</value>
+    <value>Azioni rapide</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Recently opened or modified files</value>
+    <value>File aperti o modificati di recente</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>Recent files</value>
+    <value>File recenti</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>Recommended apps for digital pen</value>
+    <value>App consigliate per la penna digitale</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>Suggested</value>
+    <value>Consigliati</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>Set visibility and order of the elements in the Home screen</value>
+    <value>Scegli quali categorie visualizzare e in quale ordine nella Home</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>Show specific number of recent files</value>
+    <value>Mostra numero specifico di file recenti</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>Recent files</value>
+    <value>File recenti</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>Set the tiles size of pinned quick actions</value>
+    <value>Imposta la dimensione dei riquadri delle azioni rapide</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Medium</value>
+    <value>Media</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
-    <value>Small</value>
+    <value>Piccola</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
-    <value>Tiles size of quick actions</value>
+    <value>Dimensione riquadri azioni rapide</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>Show email address in user details section</value>
+    <value>Mostra l'indirizzo email dell'utente nelle informazioni</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>User's email address</value>
+    <value>Indirizzo email utente</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>Show user's details like picture, name and email address</value>
+    <value>Mostra nome e foto profilo nell'app</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
-    <value>User's details</value>
+    <value>Informazioni utente</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
-    <value>Change the style of app windows</value>
+    <value>Cambia lo stile dell'app</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
-    <value>App style</value>
+    <value>Stile app</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
     <value>Windows 10</value>
@@ -653,67 +653,67 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
-    <value>Buttons and statuses</value>
+    <value>Opzioni aggiuntive</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>Show pen battery status in workspace</value>
+    <value>Mostra la percentuale di batteria della penna nell'app</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
-    <value>Pen battery status</value>
+    <value>Percentuale batteria penna</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>Show Pen settings button in context menu and jump list</value>
+    <value>Mostra il tasto impostazioni penna nell'app</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
-    <value>Pen settings button</value>
+    <value>Impostazioni penna</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>Bottom center</value>
+    <value>In basso al centro</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
-    <value>Bottom left</value>
+    <value>In basso a sinistra</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
-    <value>Bottom right</value>
+    <value>In basso a destra</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>Change the placement of app windows</value>
+    <value>Cambia la posizione dell'app</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
-    <value>Placement</value>
+    <value>Posizione</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>Top center</value>
+    <value>In alto al centro</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
-    <value>Top left</value>
+    <value>In alto a sinistra</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
-    <value>Top right</value>
+    <value>In alto a destra</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
-    <value>Enable rouded corners for tiles of apps and quick actions</value>
+    <value>Abilita bordi arrotondati per le app e le azioni rapide</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
-    <value>Rounded corners for tiles</value>
+    <value>Bordi arrotondati per app e azioni</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
-    <value>Enable rounded corners for app windows</value>
+    <value>Abilita bordi arrotondati per la finestra dell'app</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
-    <value>Rounded corners for windows</value>
+    <value>Bordi arrotondati per l'app</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>Show Settings button in workspace</value>
+    <value>Mostra il tasto impostazioni nell'app</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
-    <value>Settings button</value>
+    <value>Impostazioni</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>Show Stop recording button in context menu and jump list while recording</value>
+    <value>Mostra il tasto ferma registrazione nell'app e nei menu</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
-    <value>Stop registrazione</value>
+    <value>Ferma registrazione</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
     <value>Mostra un bordo giallo attorno allo schermo o alla finestra</value>
