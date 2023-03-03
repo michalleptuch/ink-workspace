@@ -14,7 +14,6 @@ ink workspace
 penna di windows
 windows ink
 penna
-launcher
 ambiente di lavoro
 app
 registratore
