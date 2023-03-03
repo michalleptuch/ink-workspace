@@ -166,7 +166,6 @@
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
     <value>Pojďme se naučit, jak používat tuto aplikaci jako profík</value>
-    <comment>"profík" is a casual way of saying "profesionál", feel free to change it ;-)</comment>
   </data>
   <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
     <value>Ink Workspace</value>
@@ -185,7 +184,7 @@
     <value>Ink Workspace můžete otevřít přímo z hlavního panelu. Jen ji připněte.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Klikněte pravým tlačítkem myši nebo přidržte ikonu pro otevření seznamu odkazů. Tento list obsahuje základní příkazy.</value>
+    <value>Klikněte pravým tlačítkem myši nebo přidržte ikonu pro otevření seznamu odkazů. Tento seznam obsahuje základní příkazy.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
     <value>Připnout na hlavní panel</value>
@@ -194,7 +193,7 @@
     <value>Ink Workspace Vám umožňuje přizpůsobit Vaše nastavení, povolit nebo zakázat klávesové zkratky, spravovat aplikace nebo i jiné věci.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>Ikonu nastavení můžete najít na pracovní ploše, v kontextovém menu ikony systému a seznamu rychlého přístupu.</value>
+    <value>Ikonu nastavení můžete najít na pracovní ploše, v kontextovém menu ikony systému a seznamu odkazů.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
     <value>Upravit nastavení</value>
@@ -227,16 +226,16 @@
     <value>Zrušit</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Upravit zástupce</value>
+    <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Zmáčkněte kombinaci kláves pro změnu tohoto zástupce</value>
+    <value>Zmáčkněte kombinaci kláves pro změnu této zkratky</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Pouze zástupci, kteří začínají na</value>
+    <value>Pouze zkratky, které začínají na</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Klávesa Windows</value>
+    <value>Klávesu Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -264,10 +263,10 @@
     <value>Domů</value>
   </data>
   <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Rychlý přístup</value>
+    <value>Centrum akcí</value>
   </data>
   <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Nedávné soubory</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
     <value>Nastavení</value>
@@ -300,7 +299,7 @@
     <value>Promítání</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>Zapnout nahrávání obrazovky nebo okna</value>
+    <value>Záznam okna nebo obrazovky</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>Koš</value>
@@ -357,7 +356,7 @@
     <value>Odmítnout</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Ohodnoťit tuto aplikaci</value>
+    <value>Ohodnotit tuto aplikaci</value>
   </data>
   <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
     <value>Napsat recenzi</value>
@@ -366,7 +365,7 @@
     <value>Více</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>Čím více používáte své zařízení, tím více nedávných souboru Vám zobrazím</value>
+    <value>Čím více používáte své zařízení, tím více nedávných položek Vám zobrazím</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
     <value>Otevřít umístení souboru</value>
@@ -375,7 +374,7 @@
     <value>Odstranit ze seznamu</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>Nedávné soubory</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
     <value>Nahrávka</value>
@@ -406,7 +405,7 @@
     <value>Zpětná vazba</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>Následující knihovny byly použity v této aplikaci:</value>
+    <value>V této aplikaci byly použity následující knihovny:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
     <value>Knihovny</value>
@@ -427,7 +426,7 @@
     <value>Verze:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>Zobrazit Android aplikace na seznamu aplikací</value>
+    <value>Zobrazovat Android aplikace na seznamu aplikací</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
     <value>Všechny Android aplikace budou odepnuty z domácí obrazovky, jakmile vypnete toto nastavení</value>
@@ -445,7 +444,7 @@
     <value>Pokročilé</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Zobrazit klasické aplikace na seznamu aplikací</value>
+    <value>Zobrazovat klasické aplikace na seznamu aplikací</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
     <value>Všechny klasické aplikace budou odepnuty z domácí obrazovky, jakmile vypnete toto nastavení</value>
@@ -466,7 +465,7 @@
     <value>Obnovit aplikace</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>Zobrazit vyhledávací pole v pohledu Aplikací</value>
+    <value>Zobrazovat vyhledávací pole v pohledu aplikací</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
     <value>Vyhledávací pole</value>
@@ -481,13 +480,13 @@
     <value>Odepnout</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Unpinned</value>
+    <value>Odepnuto</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
     <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Activační zkratka</value>
+    <value>Aktivační zkratka</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
     <value>Nastavení zařízení bluetooth</value>
@@ -511,28 +510,28 @@
     <value>Větší</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>Nastavit velikost fontu pro obsah v aplikaci</value>
+    <value>Změnit velikost textu pro obsah v aplikaci</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
     <value>Normalní</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>Velikost fontu</value>
+    <value>Velikost textu</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
     <value>Nastavení osobního slovníku</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>Přizpůsobení pera a psaní</value>
+    <value>Přizpůsobení rukopisu a psaní na klávesnici</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>Nastavení pera a pravopisu</value>
+    <value>Nastavení pera a rukopisu</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
     <value>Pero a Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>Připnout na hlavní panel</value>
+    <value>Připnout tuto aplikaci na hlavní panel</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
     <value>Připnuto</value>
@@ -553,7 +552,7 @@
     <value>Spustit při startu</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>Zapnout pohlcující audio zážiteke</value>
+    <value>Zapnout pohlcující audio</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
     <value>Zvuky</value>
@@ -571,7 +570,7 @@
     <value>Velikost dlaždic aplikací</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>Zobrazit denní tapetu Bing na pozadí</value>
+    <value>Zobrazovat denní tapetu Bing na pozadí</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
     <value>Bing tapeta</value>
@@ -580,7 +579,7 @@
     <value>Možnosti</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>Dlaždice aplikací, které jste připnuli</value>
+    <value>Zobrazovat dlaždice aplikací, které jste připnuli</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
     <value>Aplikace</value>
@@ -589,31 +588,31 @@
     <value>V případě, že nejsou žádna data dostupná se položky na domácí obrazovce mohou automaticky schovat.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Dlaždice centra akcí, které jste připnuli</value>
+    <value>Zobrazovat dlaždice centra akcí, které jste připnuli</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
     <value>Centrum akcí</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Nedávno otevřené nebo upravené soubory</value>
+    <value>Zobrazovat naposledy otevřené nebo upravené položky</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>Nedávné soubory</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>Doporučené aplikace pro digitální pera</value>
+    <value>Zobrazovat návrhy aplikací pro digitální pera</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>Navrhované</value>
+    <value>Návrhy</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
     <value>Nastavit viditelnost a pořadí položek na domácí obrazovce</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>Zobrazit specifický počet nedávných souborů</value>
+    <value>Zobrazovat specifický počet nedávných položek</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>Nedávné soubory</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
     <value>Nastavit velikost připnutých dlaždic centra akcí</value>
@@ -628,13 +627,13 @@
     <value>Velikost dlaždic centra akcí</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>Zobrazit emailovou adresu uživatele v detailním zobrazení</value>
+    <value>Zobrazovat e-mailovou adresu v podrobnostech uživatele</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>Emailová adresa uživatele</value>
+    <value>E-mailová adresa uživatele</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>Zobrazit podrobnosti uživatele, jako obrázek, jméno nebo emailovou adresu</value>
+    <value>Zobrazovat podrobnosti uživatele, jako je obrázek, jméno nebo e-mailová adresa</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
     <value>Podrobnosti uživatele</value>
@@ -657,19 +656,19 @@
     <value>Stavy a tlačítka</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>Zobrazit stav baterie pera na pracovní ploše</value>
+    <value>Zobrazovat stav baterie pera na pracovní ploše</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
     <value>Stav baterie pera</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>Zobrazit tlačítko nastavení pera v kontextovém menu seznamu odkazů</value>
+    <value>Zobrazovat tlačítko nastavení pera v kontextovém menu a seznamu odkazů</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
     <value>Tlačítko nastavení pera</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>Dole uprostřed</value>
+    <value>Dole na střed</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
     <value>Dole vlevo</value>
@@ -678,13 +677,13 @@
     <value>Dole vpravo</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>Změnit rozložení oken aplikace</value>
+    <value>Změnit zarovnání oken aplikace</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
-    <value>Rozložení</value>
+    <value>Zarovnání</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>Nahoře uprostřed</value>
+    <value>Nahoře na střed</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
     <value>Nahoře vlevo</value>
@@ -699,25 +698,25 @@
     <value>Zaoblení dlaždic</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
-    <value>Zapnout zaoblení oken aplikací</value>
+    <value>Zapnout zaoblení oken aplikace</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
     <value>Zaoblení oken</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>Zobrazit tlačítko nastavení na pracovní ploše</value>
+    <value>Zobrazovat tlačítko nastavení na pracovní ploše</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
     <value>Tlačítko nastavení</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>Zobrazit tlačítko zastavení nahrávání v kontextovém menu seznamu odkazů při nahrávání</value>
+    <value>Zobrazovat tlačítko zastavit nahrávání v kontextovém menu a seznamu odkazů při záznamu</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
-    <value>Tlačitko zastavení nahrávání</value>
+    <value>Tlačitko zastavit nahrávání</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
-    <value>Zobrazit žluté ohraničení kolem okna nebo obrazovky</value>
+    <value>Zobrazovat žluté ohraničení kolem okna nebo obrazovky</value>
   </data>
   <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
     <value>Ohraničení</value>
@@ -726,7 +725,7 @@
     <value>Pokročilé</value>
   </data>
   <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
-    <value>Nahrávání</value>
+    <value>Záznam</value>
   </data>
   <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
     <value>Výstřižky</value>
@@ -744,13 +743,13 @@
     <value>Zapnout klávesovou zkratku pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Zapnout klávesovou zkratku pro spuštění nahrávání</value>
+    <value>Zapnout zkratku pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
     <value>Zapnout klávesovou zkratku pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Zapnout klávesovou zkratku pro zastavení nahrávání</value>
+    <value>Zapnout zkratku pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30 snímků/s</value>
@@ -768,25 +767,25 @@
     <value>10 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
-    <value>3 sekundy</value>
+    <value>3 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
     <value>5 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
-    <value>Zpozdit začátek nahrávání o specifický počet sekund</value>
+    <value>Zvolit zpoždění začátku nahrávání po dobu</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
     <value>Bez zpoždění</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>Spustit zpoždění</value>
+    <value>Zpoždění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
     <value>Nejlepší</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
-    <value>Zvolte kvalitu nahrávání</value>
+    <value>Zvolit kvalitu nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
     <value>Vysoká</value>
@@ -804,7 +803,7 @@
     <value>Výstřižek všech obrazovek</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
-    <value>Zvolte oblast pro vytřižení</value>
+    <value>Zvolte oblast pro vystřižení</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
     <value>Výstřižek hlavní obrazovky</value>
@@ -813,7 +812,7 @@
     <value>Vystřižení oblasti</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
-    <value>Zobrazit potvrzení před vypnutím</value>
+    <value>Zobrazovat potvrzení před vypnutím</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
     <value>Vypnutí se provede okamžitě po vyvolání</value>
@@ -825,13 +824,13 @@
     <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Klávesova zkratka pro spuštění nahrávání</value>
+    <value>Zkratka pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
     <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Klávesová zkratka pro zastavení nahrávání</value>
+    <value>Zkratka pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
     <value>Odepnout centrum akcí z domácí obrazovky</value>
@@ -843,10 +842,10 @@
     <value>Odepnout</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Odepnuté</value>
+    <value>Odepnuto</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
-    <value>Odstranit všechny nedávné soubory ze seznamu</value>
+    <value>Odstranit všechny nedávné položky ze seznamu</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
     <value>Odstranit vše</value>
@@ -867,7 +866,7 @@
     <value>Obecné</value>
   </data>
   <data name="Settings_Menu_Home" xml:space="preserve">
-    <value>Domů</value>
+    <value>Domácí obrazovka</value>
   </data>
   <data name="Settings_Menu_Personalization" xml:space="preserve">
     <value>Přizpůsobení</value>
@@ -876,7 +875,7 @@
     <value>Centrum akcí</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
-    <value>Nedávné soubory</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Ink Workspace</value>

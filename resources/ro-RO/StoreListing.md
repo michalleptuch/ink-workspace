@@ -2,4 +2,4 @@ Ink Workspace este o aplicație ce trebuie să o ai atunci când folosiți stilo
 
 O aplicație ce trebuie să o ai care îmbogățește experiența stiloului pe dispozitivele Windows
 
-cerneală spațiu de lucru windows lansator stilou cerneală înregistrare aplicații spațiu de lucru
+ink workspace windows ink stilou launcher workspace aplicații înregistrare
