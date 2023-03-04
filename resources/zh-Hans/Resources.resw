@@ -794,7 +794,7 @@
     <value>低</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>中</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
     <value>视频质量</value>
