@@ -11,7 +11,6 @@ Welcome to the official issue-only repo for Ink Workspace. This is a desktop app
 Feel free to share ideas about new features or report bugs.
 
 ## Translations
-German: [@lorisobidesign](https://twitter.com/lorisobidesign)  
 Italian: [@Simizfo](https://twitter.com/Simizfo)  
 Portuguese (Portugal): [@esibruti](https://twitter.com/esibruti)  
 Spanish (Spain): [@qrbt_ok](https://twitter.com/qrbt_ok)
@@ -21,6 +20,7 @@ Chinese: [@ZHang233-ai](https://github.com/ZHang233-ai)
 Czech: [@Vaki21](https://github.com/Vaki21)  
 English (United States): [@michalleptuch](https://github.com/michalleptuch)  
 French: [@FJduFou](https://github.com/FJduFou)  
+German: [@LnZpk2302](https://github.com/LnZpk2302)  
 Italian: [@alessandrocaseti](https://github.com/alessandrocaseti)  
 Korean: [@jonghyunii](https://github.com/jonghyunii)  
 Polish: [@michalleptuch](https://github.com/michalleptuch)  
