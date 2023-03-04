@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -399,13 +399,13 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Kontakt email</value>
+    <value>Kontakt e-mail</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
     <value>Zgłoś błąd</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>Następujące biblioteki zostały wykorzystane w tej aplikacji</value>
+    <value>Następujące biblioteki zostały wykorzystane w tej aplikacji:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
     <value>Biblioteki</value>
@@ -594,7 +594,7 @@
     <value>Szybkie akcje</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Ostatnio otwarte lub zmodyfikowe pliki</value>
+    <value>Ostatnio otwarte lub zmodyfikowane pliki</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
     <value>Ostatnie pliki</value>
@@ -627,13 +627,13 @@
     <value>Rozmiar kafelków szybkich akcji</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>Pokaż adres email w sekcji informacji o użytkowniku</value>
+    <value>Pokaż adres e-mail w sekcji informacji o użytkowniku</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>Adres email użytkownika</value>
+    <value>Adres e-mail użytkownika</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>Pokaż informacje o użytkowniku, takie jak obraz, nazwa oraz adres email</value>
+    <value>Pokaż informacje o użytkowniku, takie jak obraz, nazwa oraz adres e-mail</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
     <value>Informacje o użytkowniku</value>
@@ -668,7 +668,7 @@
     <value>Przycisk ustawień pióra</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>Na dole po środku</value>
+    <value>Na dole pośrodku</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
     <value>Na dole po lewej</value>
@@ -683,7 +683,7 @@
     <value>Położenie</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>Na górze po środku</value>
+    <value>Na górze pośrodku</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
     <value>Na górze po lewej</value>
