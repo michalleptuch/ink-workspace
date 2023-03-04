@@ -122,120 +122,120 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Apps_AllApps.Text" xml:space="preserve">
-    <value>所有应用</value>
+    <value>Všechny aplikace</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>在此处输入以搜索</value>
+    <value>Sem zadejte hledaný výraz</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>移到顶部</value>
+    <value>Přesunout do popředí</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>未找到'{0}'</value>
+    <value>Nebyly nalezeny žádné výsledky pro výraz '{0}'</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>应用</value>
+    <value>Aplikace</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Odepnout</value>
   </data>
   <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
-    <value>笔设置</value>
+    <value>Nastavení pera</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>退出</value>
+    <value>Odejít</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>设置</value>
+    <value>Nastavení</value>
   </data>
   <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
-    <value>停止录制</value>
+    <value>Zastavit nahrávání</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>zh-CN</value>
+    <value>cs-CZ</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>关闭</value>
+    <value>Zavřít</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>下一步</value>
+    <value>Další</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
-    <value>欢迎</value>
+    <value>Vítejte</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
-    <value>让我们学习如何像专业人士一样使用此应用吧.</value>
+    <value>Pojďme se naučit, jak používat tuto aplikaci jako profík</value>
   </data>
   <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>您可以使用托盘图标来打开墨迹工作区.它应该放在时钟旁边.</value>
+    <value>Ink Workspace můžete otevřít pomocí ikony systému. Měla by být vedle hodin.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>图标可能处于隐藏状态.如果您没有看到它,请尝试单击或点击箭头按钮.</value>
+    <value>Ikona může být skrytá. Pokud ji nevidíte, zkuste kliknout nebo zmáčknout šipku zobrazení skrytých ikon.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
-    <value>使用托盘图标</value>
+    <value>Použít ikonu systému</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>您可以直接从任务栏来打开墨迹工作区,只需将它固定到任务栏即可.</value>
+    <value>Ink Workspace můžete otevřít přímo z hlavního panelu. Jen ji připněte.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>右键图标以打开跳转列表.它包含基本命令的列表.</value>
+    <value>Klikněte pravým tlačítkem myši nebo přidržte ikonu pro otevření seznamu odkazů. Tento seznam obsahuje základní příkazy.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
-    <value>固定应用到任务栏</value>
+    <value>Připnout na hlavní panel</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>墨迹工作区允许您调整个性化设置、启用或禁用键盘快捷键、管理应用程序等.</value>
+    <value>Ink Workspace Vám umožňuje přizpůsobit Vaše nastavení, povolit nebo zakázat klávesové zkratky, spravovat aplikace nebo i jiné věci.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>您可以在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中找到设置图标.</value>
+    <value>Ikonu nastavení můžete najít na pracovní ploše, v kontextovém menu ikony systému a seznamu odkazů.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
-    <value>调整设置</value>
+    <value>Upravit nastavení</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>关闭此窗口以完成墨迹工作区的配置</value>
+    <value>Zavřete toto okno pro dokončení konfigurace aplikace Ink Workspace</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
-    <value>即将完成...</value>
+    <value>Skoro hotovo...</value>
   </data>
   <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
-    <value>跳过</value>
+    <value>Přeskočit</value>
   </data>
   <data name="JumpList_PenSettings" xml:space="preserve">
-    <value>笔设置</value>
+    <value>Nastavení pera</value>
   </data>
   <data name="JumpList_QuitApp" xml:space="preserve">
-    <value>退出</value>
+    <value>Ukončit</value>
   </data>
   <data name="JumpList_Settings" xml:space="preserve">
-    <value>设置</value>
+    <value>Nastavení</value>
   </data>
   <data name="JumpList_StopRecording" xml:space="preserve">
-    <value>停止录制</value>
+    <value>Zastavit nahrávání</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>保存</value>
+    <value>Uložit</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>取消</value>
+    <value>Zrušit</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>自定义快捷键</value>
+    <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>按下想更改的新快捷键</value>
+    <value>Zmáčkněte kombinaci kláves pro změnu této zkratky</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>只有以</value>
+    <value>Pouze zkratky, které začínají na</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows</value>
+    <value>Klávesu Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -244,405 +244,405 @@
     <value>Alt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>或</value>
+    <value>nebo</value>
   </data>
   <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>键开头的快捷键才有效.</value>
+    <value>jsou validní.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>CN</value>
+    <value>CZ</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
-    <value>应用</value>
+    <value>Aplikace</value>
   </data>
   <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
-    <value>主页</value>
+    <value>Domů</value>
   </data>
   <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Centrum akcí</value>
   </data>
   <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
-    <value>设置</value>
+    <value>Nastavení</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>投放</value>
+    <value>Bezdrátová obrazovka</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
-    <value>剪切板</value>
+    <value>Schránka</value>
   </data>
   <data name="QuickActions_Action_Connect" xml:space="preserve">
-    <value>连接</value>
+    <value>Připojit</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>表情面板</value>
+    <value>Panel emoji</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
-    <value>Xbox游戏栏</value>
+    <value>Game bar</value>
   </data>
   <data name="QuickActions_Action_LockDevice" xml:space="preserve">
-    <value>锁定设备</value>
+    <value>Uzamknout zařízení</value>
   </data>
   <data name="QuickActions_Action_Magnifier" xml:space="preserve">
-    <value>放大镜</value>
+    <value>Lupa</value>
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
-    <value>讲述人</value>
+    <value>Předčítání</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>投影</value>
+    <value>Promítání</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>录制屏幕或者窗口</value>
+    <value>Záznam okna nebo obrazovky</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
-    <value>回收站</value>
+    <value>Koš</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
-    <value>运行</value>
+    <value>Spustit</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>屏幕截图</value>
+    <value>Výstřižky</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
-    <value>显示桌面</value>
+    <value>Zobrazit plochu</value>
   </data>
   <data name="QuickActions_Action_ShutDown" xml:space="preserve">
-    <value>关机</value>
+    <value>Vypnout</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
-    <value>休眠</value>
+    <value>Hibernovat</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
-    <value>重启</value>
+    <value>Restartovat</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
-    <value>截图</value>
+    <value>Pořídit snímek obrazovky</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>延迟10秒</value>
+    <value>Zpozdit o 10 sekund</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
-    <value>延迟15秒</value>
+    <value>Zpozdit o 15 sekund</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
-    <value>延迟3秒</value>
+    <value>Zpozdit o 3 sekundy</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
-    <value>延迟5秒</value>
+    <value>Zpozdit o 5 sekund</value>
   </data>
   <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
-    <value>虚拟触控板</value>
+    <value>Virtualní touchpad</value>
   </data>
   <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
-    <value>语音输入</value>
+    <value>Zadávání hlasem</value>
   </data>
   <data name="QuickActions_More.Text" xml:space="preserve">
-    <value>更多</value>
+    <value>Více</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Centrum akcí</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Odepnout</value>
   </data>
   <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
-    <value>不予评价</value>
+    <value>Odmítnout</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>评价这个应用</value>
+    <value>Ohodnotit tuto aplikaci</value>
   </data>
   <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
-    <value>写一个评论</value>
+    <value>Napsat recenzi</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
-    <value>更多</value>
+    <value>Více</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>您使用设备的次数越多,显示的最新文件就越多.</value>
+    <value>Čím více používáte své zařízení, tím více nedávných položek Vám zobrazím</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
-    <value>打开文件位置</value>
+    <value>Otevřít umístení souboru</value>
   </data>
   <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
-    <value>从列表中移除</value>
+    <value>Odstranit ze seznamu</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
-    <value>录制</value>
+    <value>Nahrávka</value>
   </data>
   <data name="RecordingStatus_Recording.Text" xml:space="preserve">
-    <value>录制中</value>
+    <value>Nahrávání...</value>
   </data>
   <data name="RecordingStatus_Stop.Text" xml:space="preserve">
-    <value>停止</value>
+    <value>Zastavit</value>
   </data>
   <data name="Recording_Cancel.Content" xml:space="preserve">
-    <value>取消</value>
+    <value>Zrušit</value>
   </data>
   <data name="Recording_Skip.Content" xml:space="preserve">
-    <value>跳过</value>
+    <value>Přeskočit</value>
   </data>
   <data name="Recording_Starting.Text" xml:space="preserve">
-    <value>启动中...</value>
+    <value>Spouštění...</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>邮箱支持</value>
+    <value>Emailová podpora</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>反馈</value>
+    <value>Zpětná vazba</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>此应用使用了以下库:</value>
+    <value>V této aplikaci byly použity následující knihovny:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>库</value>
+    <value>Knihovny</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>我的应用</value>
+    <value>Moje aplikace</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>评价与评论</value>
+    <value>Hodnocení a recenze</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Mica For Everyone应用可能会导致应用窗口显示不正确.在这种情况下,请为 InkWorkspace.Wpf 和 InkWorkspace.Recording 进程添加新规则并设置默认值.</value>
+    <value>Aplikace 'Mica For Everyone' může způsobovat chybné zobrazení oken aplikace. V tomto případe, přidejte nová pravidla pro procesy InkWorkspace.Wpf a InkWorkspace.Recording a nastavte jim základní hodnoty.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
-    <value>疑难解答</value>
+    <value>Řešení potíží</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>版本号:</value>
+    <value>Verze:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>显示安卓应用列表</value>
+    <value>Zobrazovat Android aplikace na seznamu aplikací</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>关闭此设置后,所有安卓应用都将会在主页中取消固定</value>
+    <value>Všechny Android aplikace budou odepnuty z domácí obrazovky, jakmile vypnete toto nastavení</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
-    <value>安卓应用</value>
+    <value>Aplikace Android</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
-    <value>在应用列表中启用分组</value>
+    <value>Zapnout seskupení v seznamu aplikací</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>应用分组</value>
+    <value>Seskupení aplikací</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
-    <value>高级设置</value>
+    <value>Pokročilé</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>在应用列表中显示经典应用</value>
+    <value>Zobrazovat klasické aplikace na seznamu aplikací</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>关闭此设置后,所有经典应用都将会在主页中取消固定</value>
+    <value>Všechny klasické aplikace budou odepnuty z domácí obrazovky, jakmile vypnete toto nastavení</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
-    <value>经典应用</value>
+    <value>Klasické aplikace</value>
   </data>
   <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
-    <value>如果您没有看到所有应用，请尝试手动刷新列表</value>
+    <value>Pokud nevidíte všechny aplikace, zkuste list ručně obnovit</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>刷新</value>
+    <value>Obnovit</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>刷新中</value>
+    <value>Obnovuji</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
-    <value>刷新应用</value>
+    <value>Obnovit aplikace</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>在应用列表中显示搜索框</value>
+    <value>Zobrazovat vyhledávací pole v pohledu aplikací</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
-    <value>搜索框</value>
+    <value>Vyhledávací pole</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>主页取消固定所有应用</value>
+    <value>Odepnout všechny aplikace z domácí obrazovky</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>取消固定所有应用</value>
+    <value>Odepnout vše</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Odepnout</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>未固定</value>
+    <value>Odepnuto</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>更改快捷键</value>
+    <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>激活快捷键</value>
+    <value>Aktivační zkratka</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
-    <value>蓝牙设备设置</value>
+    <value>Nastavení zařízení bluetooth</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
-    <value>蓝牙</value>
+    <value>Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
-    <value>可用性</value>
+    <value>Usnadnění přístupu</value>
   </data>
   <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
-    <value>相关设置</value>
+    <value>Související nastavení</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>启用显示墨印工作区的快捷键</value>
+    <value>Zapnout klávesovou zkratku, která zobrazuje pracovní plochu</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>启用激活快捷键</value>
+    <value>Zapnout aktivační klávesovou zkratku</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
-    <value>大号</value>
+    <value>Větší</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>设置应用中的字体大小</value>
+    <value>Změnit velikost textu pro obsah v aplikaci</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
-    <value>中号</value>
+    <value>Normalní</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>字体大小</value>
+    <value>Velikost textu</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
-    <value>个人词典设置</value>
+    <value>Nastavení osobního slovníku</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>墨迹书写和输入个性化</value>
+    <value>Přizpůsobení rukopisu a psaní na klávesnici</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>笔和手写设置</value>
+    <value>Nastavení pera a rukopisu</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>笔和Windows Ink</value>
+    <value>Pero a Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>固定此应用到任务栏</value>
+    <value>Připnout tuto aplikaci na hlavní panel</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
-    <value>已固定</value>
+    <value>Připnuto</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
-    <value>固定到任务栏</value>
+    <value>Připnout na hlavní panel</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
-    <value>固定到任务栏</value>
+    <value>Připnout na hlavní panel</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>登录后自启应用</value>
+    <value>Spustit automaticky při přihlášení do Windows</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>打开设置</value>
+    <value>Otevřít nastavení</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>设置开机自启</value>
+    <value>Spustit při startu</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>启用音效</value>
+    <value>Zapnout pohlcující audio</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
-    <value>声音</value>
+    <value>Zvuky</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>更改应用的磁贴大小</value>
+    <value>Nastavit velikost dlaždic pripnutých aplikací</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>Střední</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
-    <value>小</value>
+    <value>Malé</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
-    <value>磁贴大小</value>
+    <value>Velikost dlaždic aplikací</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>主页背景显示每日必应壁纸</value>
+    <value>Zobrazovat denní tapetu Bing na pozadí</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
-    <value>必应壁纸</value>
+    <value>Bing tapeta</value>
   </data>
   <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
-    <value>选项</value>
+    <value>Možnosti</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>固定的磁贴</value>
+    <value>Zobrazovat dlaždice aplikací, které jste připnuli</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
-    <value>应用</value>
+    <value>Aplikace</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>当没有可用数据时,主页中的元素可能会自动隐藏</value>
+    <value>V případě, že nejsou žádna data dostupná se položky na domácí obrazovce mohou automaticky schovat.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>固定到快速操作的磁贴</value>
+    <value>Zobrazovat dlaždice centra akcí, které jste připnuli</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Centrum akcí</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>最近打开或修改的文件</value>
+    <value>Zobrazovat naposledy otevřené nebo upravené položky</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>推荐搭配笔的应用</value>
+    <value>Zobrazovat návrhy aplikací pro digitální pera</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>建议应用</value>
+    <value>Návrhy</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>设置主页中元素的可见性与顺序</value>
+    <value>Nastavit viditelnost a pořadí položek na domácí obrazovce</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>更改最近的文件的显示数量</value>
+    <value>Zobrazovat specifický počet nedávných položek</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>更改快速操作的磁贴大小</value>
+    <value>Nastavit velikost připnutých dlaždic centra akcí</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>Střední</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
-    <value>小</value>
+    <value>Malé</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
-    <value>快速操作的磁贴大小</value>
+    <value>Velikost dlaždic centra akcí</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>在用户名称下显示邮箱地址</value>
+    <value>Zobrazovat e-mailovou adresu v podrobnostech uživatele</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>用户邮箱地址</value>
+    <value>E-mailová adresa uživatele</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>显示用户的详细信息,如图片、姓名和邮箱地址</value>
+    <value>Zobrazovat podrobnosti uživatele, jako je obrázek, jméno nebo e-mailová adresa</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
-    <value>用户详细信息</value>
+    <value>Podrobnosti uživatele</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
-    <value>更改应用窗口的样式</value>
+    <value>Změnit styl oken aplikace</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
-    <value>应用风格</value>
+    <value>Styl aplikace</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
     <value>Windows 10</value>
@@ -653,241 +653,241 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
-    <value>选项与状态</value>
+    <value>Stavy a tlačítka</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>在工作区中显示笔的电量状态</value>
+    <value>Zobrazovat stav baterie pera na pracovní ploše</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
-    <value>笔电量状态</value>
+    <value>Stav baterie pera</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>在托盘图标的右键菜单或者任务栏应用右键的跳转列表显示笔设置</value>
+    <value>Zobrazovat tlačítko nastavení pera v kontextovém menu a seznamu odkazů</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
-    <value>笔设置选项</value>
+    <value>Tlačítko nastavení pera</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>底部居中</value>
+    <value>Dole na střed</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
-    <value>左下角</value>
+    <value>Dole vlevo</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
-    <value>右下角</value>
+    <value>Dole vpravo</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>更改显示应用窗口的位置</value>
+    <value>Změnit zarovnání oken aplikace</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
-    <value>位置</value>
+    <value>Zarovnání</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>顶部居中</value>
+    <value>Nahoře na střed</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
-    <value>左上角</value>
+    <value>Nahoře vlevo</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
-    <value>右上角</value>
+    <value>Nahoře vpravo</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
-    <value>为应用和快速操作磁贴启用圆角</value>
+    <value>Zapnout zaoblení dlaždic aplikací a centra akcí</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
-    <value>启用磁贴圆角</value>
+    <value>Zaoblení dlaždic</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
-    <value>为应用窗口启用圆角</value>
+    <value>Zapnout zaoblení oken aplikace</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
-    <value>启用窗口圆角</value>
+    <value>Zaoblení oken</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>在工作区显示笔选项</value>
+    <value>Zobrazovat tlačítko nastavení na pracovní ploše</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
-    <value>设置选项</value>
+    <value>Tlačítko nastavení</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中显示停止录制选项</value>
+    <value>Zobrazovat tlačítko zastavit nahrávání v kontextovém menu a seznamu odkazů při záznamu</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
-    <value>停止录制选项</value>
+    <value>Tlačitko zastavit nahrávání</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
-    <value>在屏幕或窗口周围显示黄色边框</value>
+    <value>Zobrazovat žluté ohraničení kolem okna nebo obrazovky</value>
   </data>
   <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
-    <value>边框</value>
+    <value>Ohraničení</value>
   </data>
   <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
-    <value>高级设置</value>
+    <value>Pokročilé</value>
   </data>
   <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
-    <value>录制</value>
+    <value>Záznam</value>
   </data>
   <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
-    <value>屏幕截图</value>
+    <value>Výstřižky</value>
   </data>
   <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
-    <value>关机</value>
+    <value>Vypnout</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
-    <value>录制系统指针</value>
+    <value>Zachycovat v záznamech kurzor myši</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
-    <value>指针</value>
+    <value>Kurzor myši</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>启用开始录制快捷键以开始录制</value>
+    <value>Zapnout klávesovou zkratku pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>启用开始录制快捷键</value>
+    <value>Zapnout zkratku pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>启用结束录制快捷键以结束录制</value>
+    <value>Zapnout klávesovou zkratku pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>启用结束录制快捷键</value>
+    <value>Zapnout zkratku pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
-    <value>30帧</value>
+    <value>30 snímků/s</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_60fps.Content" xml:space="preserve">
-    <value>60帧</value>
+    <value>60 snímků/s</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
-    <value>选择录制时的帧数</value>
+    <value>Zvolte snímkovou frekvenci videa</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
-    <value>录制帧数</value>
+    <value>Snímková frekvence</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
-    <value>10秒</value>
+    <value>10 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
-    <value>3秒</value>
+    <value>3 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
-    <value>5秒</value>
+    <value>5 sekund</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
-    <value>延迟指定的秒数以开始录制</value>
+    <value>Zvolit zpoždění začátku nahrávání po dobu</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
-    <value>无延迟</value>
+    <value>Bez zpoždění</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>启用延迟</value>
+    <value>Zpoždění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
-    <value>最高</value>
+    <value>Nejlepší</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
-    <value>选择录制视频的质量</value>
+    <value>Zvolit kvalitu nahrávání</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
-    <value>高</value>
+    <value>Vysoká</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
-    <value>低</value>
+    <value>Malá</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>Střední</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
-    <value>视频质量</value>
+    <value>Kvalita videa</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
-    <value>捕获所有屏幕</value>
+    <value>Výstřižek všech obrazovek</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
-    <value>选择应捕获以截图的区域</value>
+    <value>Zvolte oblast pro vystřižení</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
-    <value>只捕获主屏幕</value>
+    <value>Výstřižek hlavní obrazovky</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>捕获区域</value>
+    <value>Vystřižení oblasti</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
-    <value>关机前显示确认窗口</value>
+    <value>Zobrazovat potvrzení před vypnutím</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
-    <value>关闭操作将在调用后立即执行</value>
+    <value>Vypnutí se provede okamžitě po vyvolání</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
-    <value>确认关机窗口</value>
+    <value>Potvrdit vypnutí</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>自定义快捷键</value>
+    <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>开始录制快捷键</value>
+    <value>Zkratka pro spuštění nahrávání</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>自定义快捷键</value>
+    <value>Upravit klávesovou zkratku</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>停止录制快捷键</value>
+    <value>Zkratka pro zastavení nahrávání</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
-    <value>在主页取消所有快速操作磁贴</value>
+    <value>Odepnout centrum akcí z domácí obrazovky</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
-    <value>取消所有固定</value>
+    <value>Odepnout vše</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Odepnout</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
-    <value>未固定</value>
+    <value>Odepnuto</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
-    <value>从列表中删除所有最近的文件</value>
+    <value>Odstranit všechny nedávné položky ze seznamu</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
-    <value>移除所有</value>
+    <value>Odstranit vše</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
-    <value>已移除</value>
+    <value>Odstraněno</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
-    <value>移除所有</value>
+    <value>Odstranit vše</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>关于</value>
+    <value>O aplikaci</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
-    <value>应用</value>
+    <value>Aplikace</value>
   </data>
   <data name="Settings_Menu_General" xml:space="preserve">
-    <value>常规</value>
+    <value>Obecné</value>
   </data>
   <data name="Settings_Menu_Home" xml:space="preserve">
-    <value>主页</value>
+    <value>Domácí obrazovka</value>
   </data>
   <data name="Settings_Menu_Personalization" xml:space="preserve">
-    <value>个性化</value>
+    <value>Přizpůsobení</value>
   </data>
   <data name="Settings_Menu_QuickActions" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Centrum akcí</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Nedávné položky</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Suggested_Next.Text" xml:space="preserve">
-    <value>下一个</value>
+    <value>Další</value>
   </data>
   <data name="Suggested_Title.Text" xml:space="preserve">
-    <value>建议</value>
+    <value>Navrhované</value>
   </data>
   <data name="TrayIcon_Starting" xml:space="preserve">
-    <value>启动中...</value>
+    <value>Spouštění...</value>
   </data>
 </root>

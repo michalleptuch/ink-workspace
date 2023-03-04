@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -122,120 +122,120 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Apps_AllApps.Text" xml:space="preserve">
-    <value>所有应用</value>
+    <value>Todos apps</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>在此处输入以搜索</value>
+    <value>Digite aqui para pesquisar</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>移到顶部</value>
+    <value>Mover para a frente</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>未找到'{0}'</value>
+    <value>Nenhum resultado encontrado para '{0}'</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>应用</value>
+    <value>Apps</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Desafixar</value>
   </data>
   <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
-    <value>笔设置</value>
+    <value>Configurações da caneta</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>退出</value>
+    <value>Sair</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>设置</value>
+    <value>Configurações</value>
   </data>
   <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
-    <value>停止录制</value>
+    <value>Parar a gravação</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>zh-CN</value>
+    <value>pt-BR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>关闭</value>
+    <value>Fechar</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>下一步</value>
+    <value>Próximo</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
-    <value>欢迎</value>
+    <value>Boas-vindas</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
-    <value>让我们学习如何像专业人士一样使用此应用吧.</value>
+    <value>Vamos aprender a usar este app como um profissional</value>
   </data>
   <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>您可以使用托盘图标来打开墨迹工作区.它应该放在时钟旁边.</value>
+    <value>Você pode abrir o Ink Workspace usando o ícone da bandeja do sistema, próximo ao relógio.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>图标可能处于隐藏状态.如果您没有看到它,请尝试单击或点击箭头按钮.</value>
+    <value>O ícone pode estar escondido. Se você não o ver, tente clicar ou tocar no botão de seta.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
-    <value>使用托盘图标</value>
+    <value>Use o ícone da bandeja</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>您可以直接从任务栏来打开墨迹工作区,只需将它固定到任务栏即可.</value>
+    <value>Você pode abrir o Ink Workspace direto da barra de tarefas. É só fixar.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>右键图标以打开跳转列表.它包含基本命令的列表.</value>
+    <value>Clique com o botão direito ou toque e segure o ícone para abrir uma lista de opções.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
-    <value>固定应用到任务栏</value>
+    <value>Fixar na barra de tarefas</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>墨迹工作区允许您调整个性化设置、启用或禁用键盘快捷键、管理应用程序等.</value>
+    <value>Ink Workspace permite que você ajuste as configurações de personalização, ative ou desative atalhos de teclado, gerencie os seus apps e mais.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>您可以在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中找到设置图标.</value>
+    <value>Você pode encontrar o ícone de configuração na janela do app, no menu de contexto do ícone na bandeija do sistema e na lista de opções.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
-    <value>调整设置</value>
+    <value>Configurações</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>关闭此窗口以完成墨迹工作区的配置</value>
+    <value>Feche esta janela para finalizar as configurações do Ink Workspace</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
-    <value>即将完成...</value>
+    <value>Quase pronto...</value>
   </data>
   <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
-    <value>跳过</value>
+    <value>Pular</value>
   </data>
   <data name="JumpList_PenSettings" xml:space="preserve">
-    <value>笔设置</value>
+    <value>Configurações da caneta</value>
   </data>
   <data name="JumpList_QuitApp" xml:space="preserve">
-    <value>退出</value>
+    <value>Encerrar</value>
   </data>
   <data name="JumpList_Settings" xml:space="preserve">
-    <value>设置</value>
+    <value>Configurações</value>
   </data>
   <data name="JumpList_StopRecording" xml:space="preserve">
-    <value>停止录制</value>
+    <value>Parar a gravação</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>保存</value>
+    <value>Salvar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>取消</value>
+    <value>Cancelar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>自定义快捷键</value>
+    <value>Editar atalho</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>按下想更改的新快捷键</value>
+    <value>Pressione uma combinação de teclas para alterar este atalho</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>只有以</value>
+    <value>Apenas atalhos começados com</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows</value>
+    <value>Tecla do Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -244,405 +244,405 @@
     <value>Alt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>或</value>
+    <value>ou</value>
   </data>
   <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>键开头的快捷键才有效.</value>
+    <value>são válidos.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>CN</value>
+    <value>BR</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
-    <value>应用</value>
+    <value>Apps</value>
   </data>
   <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
-    <value>主页</value>
+    <value>Início</value>
   </data>
   <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Ações rápidas</value>
   </data>
   <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Arquivos recentes</value>
   </data>
   <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
-    <value>设置</value>
+    <value>Configurações</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>投放</value>
+    <value>Transmitir</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
-    <value>剪切板</value>
+    <value>Área de tranferência</value>
   </data>
   <data name="QuickActions_Action_Connect" xml:space="preserve">
-    <value>连接</value>
+    <value>Conectar</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>表情面板</value>
+    <value>Painel de Emoji</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
-    <value>Xbox游戏栏</value>
+    <value>Barra de jogos</value>
   </data>
   <data name="QuickActions_Action_LockDevice" xml:space="preserve">
-    <value>锁定设备</value>
+    <value>Bloquear dispositivo</value>
   </data>
   <data name="QuickActions_Action_Magnifier" xml:space="preserve">
-    <value>放大镜</value>
+    <value>Lupa</value>
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
-    <value>讲述人</value>
+    <value>Narrar tela</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>投影</value>
+    <value>Projetar</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>录制屏幕或者窗口</value>
+    <value>Gravar tela ou janela</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
-    <value>回收站</value>
+    <value>Lixeira</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
-    <value>运行</value>
+    <value>Executar</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>屏幕截图</value>
+    <value>Rabiscar na tela</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
-    <value>显示桌面</value>
+    <value>Mostrar área de trabalho</value>
   </data>
   <data name="QuickActions_Action_ShutDown" xml:space="preserve">
-    <value>关机</value>
+    <value>Desligar</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
-    <value>休眠</value>
+    <value>Suspender</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
-    <value>重启</value>
+    <value>Reiniciar</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
-    <value>截图</value>
+    <value>Captura de tela</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>延迟10秒</value>
+    <value>Atrasar em 10 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
-    <value>延迟15秒</value>
+    <value>Atrasar em 15 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
-    <value>延迟3秒</value>
+    <value>Atrasar em 3 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
-    <value>延迟5秒</value>
+    <value>Atrasar em 5 segundos</value>
   </data>
   <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
-    <value>虚拟触控板</value>
+    <value>Touchpad virtual</value>
   </data>
   <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
-    <value>语音输入</value>
+    <value>Digitação por voz</value>
   </data>
   <data name="QuickActions_More.Text" xml:space="preserve">
-    <value>更多</value>
+    <value>Mais</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Ações rápidas</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Desafixar</value>
   </data>
   <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
-    <value>不予评价</value>
+    <value>Descartar</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>评价这个应用</value>
+    <value>Avalie este app</value>
   </data>
   <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
-    <value>写一个评论</value>
+    <value>Escreva um comentário</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
-    <value>更多</value>
+    <value>Mais</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>您使用设备的次数越多,显示的最新文件就越多.</value>
+    <value>Quanto mais você usa seu dispositivo, mais arquivos recentes serão mostrados</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
-    <value>打开文件位置</value>
+    <value>Abrir local do arquivo</value>
   </data>
   <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
-    <value>从列表中移除</value>
+    <value>Remover da lista</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Arquivos recentes</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
-    <value>录制</value>
+    <value>Gravação</value>
   </data>
   <data name="RecordingStatus_Recording.Text" xml:space="preserve">
-    <value>录制中</value>
+    <value>Gravando...</value>
   </data>
   <data name="RecordingStatus_Stop.Text" xml:space="preserve">
-    <value>停止</value>
+    <value>Parar</value>
   </data>
   <data name="Recording_Cancel.Content" xml:space="preserve">
-    <value>取消</value>
+    <value>Cancelar</value>
   </data>
   <data name="Recording_Skip.Content" xml:space="preserve">
-    <value>跳过</value>
+    <value>Pular</value>
   </data>
   <data name="Recording_Starting.Text" xml:space="preserve">
-    <value>启动中...</value>
+    <value>Começando...</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>邮箱支持</value>
+    <value>Suporte por email</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>反馈</value>
+    <value>Comentário</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>此应用使用了以下库:</value>
+    <value>As seguintes bibliotecas foram usadas neste app:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>库</value>
+    <value>Bibliotecas</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>我的应用</value>
+    <value>Meus apps</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>评价与评论</value>
+    <value>Avaliação</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Mica For Everyone应用可能会导致应用窗口显示不正确.在这种情况下,请为 InkWorkspace.Wpf 和 InkWorkspace.Recording 进程添加新规则并设置默认值.</value>
+    <value>A ferramenta Mica For Everyone pode fazer com que a janela do app seja mostrada incorretamente. Neste caso, adicione uma nova regra para os processos InkWorkspace.Wpf e InkWorkspace.Recording e defina os valores padrões.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
-    <value>疑难解答</value>
+    <value>Solução de problemas</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>版本号:</value>
+    <value>Versão:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>显示安卓应用列表</value>
+    <value>Mostar os apps de Android na lista de apps</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>关闭此设置后,所有安卓应用都将会在主页中取消固定</value>
+    <value>Todos os apps Android serão desafixados da aba Início quando você desativar esta configuração</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
-    <value>安卓应用</value>
+    <value>Apps Android</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
-    <value>在应用列表中启用分组</value>
+    <value>Ativar agrupamento na lista de apps</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>应用分组</value>
+    <value>Agrupamento de apps</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
-    <value>高级设置</value>
+    <value>Avançado</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>在应用列表中显示经典应用</value>
+    <value>Mostrar apps clásicos na lista de apps</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>关闭此设置后,所有经典应用都将会在主页中取消固定</value>
+    <value>Todos os apps clássicos serão desafixados da aba Início quando você desativar esta configuração</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
-    <value>经典应用</value>
+    <value>Apps Clássicos</value>
   </data>
   <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
-    <value>如果您没有看到所有应用，请尝试手动刷新列表</value>
+    <value>Se você não estiver vendo todos os apps, tente atualizar a lista manualmente</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>刷新</value>
+    <value>Atualizar</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>刷新中</value>
+    <value>Atualizando</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
-    <value>刷新应用</value>
+    <value>Atualizar apps</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>在应用列表中显示搜索框</value>
+    <value>Mostrar caixa de pesquisa na aba de Apps</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
-    <value>搜索框</value>
+    <value>Caixa de pesquisa</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>主页取消固定所有应用</value>
+    <value>Desafixar todos os apps da aba Início</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>取消固定所有应用</value>
+    <value>Desafixar todos</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Desafixar</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>未固定</value>
+    <value>Desafixados</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>更改快捷键</value>
+    <value>Customizar atalho de teclado</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>激活快捷键</value>
+    <value>Atalho de ativação</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
-    <value>蓝牙设备设置</value>
+    <value>Configurações de dispositivos Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
-    <value>蓝牙</value>
+    <value>Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
-    <value>可用性</value>
+    <value>Acessibilidade</value>
   </data>
   <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
-    <value>相关设置</value>
+    <value>Configurações relacionadas</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>启用显示墨印工作区的快捷键</value>
+    <value>Habilitar atalho de teclado para mostrar a janela do Ink Workspace</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>启用激活快捷键</value>
+    <value>Habilitar atalho de ativação</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
-    <value>大号</value>
+    <value>Maior</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>设置应用中的字体大小</value>
+    <value>Definir o tamanho da fonte para o conteúdo do app</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
-    <value>中号</value>
+    <value>Normal</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>字体大小</value>
+    <value>Tamanho da fonte</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
-    <value>个人词典设置</value>
+    <value>Configurações do dicionário personalizado</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>墨迹书写和输入个性化</value>
+    <value>Personalização de escrita à tinta e digitação</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>笔和手写设置</value>
+    <value>Configurações da caneta e manuscrito</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>笔和Windows Ink</value>
+    <value>Caneta e Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>固定此应用到任务栏</value>
+    <value>Fixar este app na barra de tarefas do Windows</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
-    <value>已固定</value>
+    <value>Fixado</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
-    <value>固定到任务栏</value>
+    <value>Fixar na barra de tarefas</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
-    <value>固定到任务栏</value>
+    <value>Fixar na barra de tarefas</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>登录后自启应用</value>
+    <value>Iniciar o app automaticamente quando você entrar</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>打开设置</value>
+    <value>Abrir configurações</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>设置开机自启</value>
+    <value>Iniciar junto com o Windows</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>启用音效</value>
+    <value>Habilitar experiência de áudio imersivo</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
-    <value>声音</value>
+    <value>Sons</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>更改应用的磁贴大小</value>
+    <value>Ajustar o tamanho dos blocos dos apps fixados</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>Médio</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
-    <value>小</value>
+    <value>Pequeno</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
-    <value>磁贴大小</value>
+    <value>Tamanho dos blocos dos apps</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>主页背景显示每日必应壁纸</value>
+    <value>Mostrar papel de parede diário do Bing no fundo</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
-    <value>必应壁纸</value>
+    <value>Papel de parede do Bing</value>
   </data>
   <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
-    <value>选项</value>
+    <value>Opções</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>固定的磁贴</value>
+    <value>Conjunto dos apps fixados</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
-    <value>应用</value>
+    <value>Apps</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>当没有可用数据时,主页中的元素可能会自动隐藏</value>
+    <value>Os itens da aba Início podem ser ocultados automaticamente quando não existir informações.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>固定到快速操作的磁贴</value>
+    <value>Conjunto de ações rápidas fixadas</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Ações rápidas</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>最近打开或修改的文件</value>
+    <value>Lista de arquivos abertos ou modificados recentemente</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Arquivos recentes</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>推荐搭配笔的应用</value>
+    <value>Apps recomendados para caneta digital</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>建议应用</value>
+    <value>Sugestões</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>设置主页中元素的可见性与顺序</value>
+    <value>Defina a visibilidade e a ordem dos elementos da aba Início</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>更改最近的文件的显示数量</value>
+    <value>Mostrar uma quantidade específica de arquivos recentes</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Arquivos recentes</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>更改快速操作的磁贴大小</value>
+    <value>Ajustar o tamanho dos blocos das ações rápidas fixadas</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>Médio</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
-    <value>小</value>
+    <value>Pequeno</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
-    <value>快速操作的磁贴大小</value>
+    <value>Tamanho dos blocos das ações rápidas</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>在用户名称下显示邮箱地址</value>
+    <value>Mostrar o endereço de email na seção de detalhes do perfil</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>用户邮箱地址</value>
+    <value>Endereço de email da conta</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>显示用户的详细信息,如图片、姓名和邮箱地址</value>
+    <value>Mostrar detalhes como imagem, nome e email associados ao perfil</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
-    <value>用户详细信息</value>
+    <value>Detalhes do perfil</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
-    <value>更改应用窗口的样式</value>
+    <value>Alterar o estilo da janela do app</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
-    <value>应用风格</value>
+    <value>Estilo do app</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
     <value>Windows 10</value>
@@ -653,241 +653,241 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
-    <value>选项与状态</value>
+    <value>Botões e estados</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>在工作区中显示笔的电量状态</value>
+    <value>Mostar nível da bateria da caneta</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
-    <value>笔电量状态</value>
+    <value>Nível da bateria da caneta</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>在托盘图标的右键菜单或者任务栏应用右键的跳转列表显示笔设置</value>
+    <value>Mostrar botão de configurações da caneta no menu de contexto e na lista de opções</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
-    <value>笔设置选项</value>
+    <value>Botão de configurações da caneta</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>底部居中</value>
+    <value>Centro abaixo</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
-    <value>左下角</value>
+    <value>Esquerda abaixo</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
-    <value>右下角</value>
+    <value>Direita abaixo</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>更改显示应用窗口的位置</value>
+    <value>Alterar a posição da janela do app</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
-    <value>位置</value>
+    <value>Posicionamento</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>顶部居中</value>
+    <value>Centro acima</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
-    <value>左上角</value>
+    <value>Esquerda acima</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
-    <value>右上角</value>
+    <value>Direita acima</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
-    <value>为应用和快速操作磁贴启用圆角</value>
+    <value>Habilitar cantos arredondados para os blocos de apps e ações rápidas</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
-    <value>启用磁贴圆角</value>
+    <value>Cantos arredondados para os blocos</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
-    <value>为应用窗口启用圆角</value>
+    <value>Habilitar cantos arredondados para a janela do app</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
-    <value>启用窗口圆角</value>
+    <value>Cantos arredondados para a janela</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>在工作区显示笔选项</value>
+    <value>Mostrar botão de Configurações na janela</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
-    <value>设置选项</value>
+    <value>Botão de Configurações</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>在工作区托盘图标的右键菜单或者任务栏应用右键的跳转列表中显示停止录制选项</value>
+    <value>Mostrar botão de parar gravação no menu de contexto e lista de opções enquanto estivar gravando</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
-    <value>停止录制选项</value>
+    <value>Botão parar gravação</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
-    <value>在屏幕或窗口周围显示黄色边框</value>
+    <value>Mostrar borda amarela na janela ou tela que está sendo gravada</value>
   </data>
   <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
-    <value>边框</value>
+    <value>Borda destacada</value>
   </data>
   <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
-    <value>高级设置</value>
+    <value>Avançado</value>
   </data>
   <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
-    <value>录制</value>
+    <value>Gravação</value>
   </data>
   <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
-    <value>屏幕截图</value>
+    <value>Rabiscar na tela</value>
   </data>
   <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
-    <value>关机</value>
+    <value>Desligar</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
-    <value>录制系统指针</value>
+    <value>Gravar o cursor do sistema</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
-    <value>指针</value>
+    <value>Cursor</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>启用开始录制快捷键以开始录制</value>
+    <value>Habilitar atalho de teclado que inicia a gravação</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>启用开始录制快捷键</value>
+    <value>Habilitar atalho de iniciar gravação</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>启用结束录制快捷键以结束录制</value>
+    <value>Habilitar atalho de teclado que finaliza a gravação</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>启用结束录制快捷键</value>
+    <value>Habilitar atalho de finalizar gravação</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
-    <value>30帧</value>
+    <value>30 fps</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_60fps.Content" xml:space="preserve">
-    <value>60帧</value>
+    <value>60 fps</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
-    <value>选择录制时的帧数</value>
+    <value>Escolha a taxa de velocidade de gravação</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
-    <value>录制帧数</value>
+    <value>Taxa de velocidade</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
-    <value>10秒</value>
+    <value>10 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
-    <value>3秒</value>
+    <value>3 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
-    <value>5秒</value>
+    <value>5 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
-    <value>延迟指定的秒数以开始录制</value>
+    <value>Atrase o início da gravação em alguns segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
-    <value>无延迟</value>
+    <value>Sem atraso</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>启用延迟</value>
+    <value>Atraso de início</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
-    <value>最高</value>
+    <value>Melhor</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
-    <value>选择录制视频的质量</value>
+    <value>Escolha a qualidade de gravação do vídeo</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
-    <value>高</value>
+    <value>Alta</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
-    <value>低</value>
+    <value>Baixa</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
-    <value>中等</value>
+    <value>Média</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
-    <value>视频质量</value>
+    <value>Qualidade do vídeo</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
-    <value>捕获所有屏幕</value>
+    <value>Capturar todas as telas</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
-    <value>选择应捕获以截图的区域</value>
+    <value>Escolha a área que deve ser capturada</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
-    <value>只捕获主屏幕</value>
+    <value>Capturar apenas a tela atual</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>捕获区域</value>
+    <value>Capturar área</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
-    <value>关机前显示确认窗口</value>
+    <value>Solicitar confirmação antes de desligar o sistema</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
-    <value>关闭操作将在调用后立即执行</value>
+    <value>O sistema será desligado imediatamente</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
-    <value>确认关机窗口</value>
+    <value>Confirmar para desligar</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>自定义快捷键</value>
+    <value>Customizar atalho de teclado</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>开始录制快捷键</value>
+    <value>Atalho de iniciar gravação</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>自定义快捷键</value>
+    <value>Customizar atalho de teclado</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>停止录制快捷键</value>
+    <value>Atalho de parar gravação</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
-    <value>在主页取消所有快速操作磁贴</value>
+    <value>Desafixar todas as ações rápidas da aba Início</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
-    <value>取消所有固定</value>
+    <value>Desafixar tudo</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>取消固定</value>
+    <value>Desafixar</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
-    <value>未固定</value>
+    <value>Desafixados</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
-    <value>从列表中删除所有最近的文件</value>
+    <value>Remover todos os arquivos recentes da lista</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
-    <value>移除所有</value>
+    <value>Remover tudo</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
-    <value>已移除</value>
+    <value>Removidos</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
-    <value>移除所有</value>
+    <value>Limpar lista de arquivos recentes</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>关于</value>
+    <value>Sobre</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
-    <value>应用</value>
+    <value>Apps</value>
   </data>
   <data name="Settings_Menu_General" xml:space="preserve">
-    <value>常规</value>
+    <value>Geral</value>
   </data>
   <data name="Settings_Menu_Home" xml:space="preserve">
-    <value>主页</value>
+    <value>Início</value>
   </data>
   <data name="Settings_Menu_Personalization" xml:space="preserve">
-    <value>个性化</value>
+    <value>Personalização</value>
   </data>
   <data name="Settings_Menu_QuickActions" xml:space="preserve">
-    <value>快速操作</value>
+    <value>Ações rápidas</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
-    <value>最近的文件</value>
+    <value>Arquivos recentes</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Suggested_Next.Text" xml:space="preserve">
-    <value>下一个</value>
+    <value>Próximo</value>
   </data>
   <data name="Suggested_Title.Text" xml:space="preserve">
-    <value>建议</value>
+    <value>Sugestão</value>
   </data>
   <data name="TrayIcon_Starting" xml:space="preserve">
-    <value>启动中...</value>
+    <value>Iniciando...</value>
   </data>
 </root>
