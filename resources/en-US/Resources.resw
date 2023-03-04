@@ -692,7 +692,7 @@
     <value>Top right</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
-    <value>Enable rouded corners for tiles of apps and quick actions</value>
+    <value>Enable rounded corners for tiles of apps and quick actions</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
     <value>Rounded corners for tiles</value>
