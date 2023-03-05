@@ -125,7 +125,7 @@
     <value>Mọi ứng dụng</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Tìm kiếm ở đây/value>
+    <value>Tìm kiếm ở đây</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
     <value>Đưa lên đầu</value>
