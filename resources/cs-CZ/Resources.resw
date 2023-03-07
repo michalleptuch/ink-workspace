@@ -347,7 +347,7 @@
     <value>Více</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>Centrum akcí</value>
+    <value>Rychlé akce</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Odepnout</value>
@@ -588,10 +588,10 @@
     <value>V případě, že nejsou žádna data dostupná se položky na domácí obrazovce mohou automaticky schovat.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Zobrazovat dlaždice centra akcí, které jste připnuli</value>
+    <value>Dlaždice rychlých akcí, které jste připnuli</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>Centrum akcí</value>
+    <value>Rychlé akce</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
     <value>Zobrazovat naposledy otevřené nebo upravené položky</value>
@@ -872,7 +872,7 @@
     <value>Přizpůsobení</value>
   </data>
   <data name="Settings_Menu_QuickActions" xml:space="preserve">
-    <value>Centrum akcí</value>
+    <value>Rychlé akce</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
     <value>Nedávné položky</value>
