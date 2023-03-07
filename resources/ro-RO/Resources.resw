@@ -824,7 +824,7 @@
     <value>Personalizați comanda rapidă de la tastatură</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>>Comandă rapidă porniți înregistrarea</value>
+    <value>Comandă rapidă porniți înregistrarea</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
     <value>Personalizați comanda rapidă de la tastatură</value>
