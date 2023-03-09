@@ -122,120 +122,120 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Apps_AllApps.Text" xml:space="preserve">
-    <value>Mọi ứng dụng</value>
+    <value>Todas las Apps</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Tìm kiếm ở đây/value>
+    <value>Escribe aquí para buscar</value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>Đưa lên đầu</value>
+    <value>Mover arriba</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>Không có kết quả cho '{0}'</value>
+    <value>No se encontraron resultados para '{0}'</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>Ứng dụng</value>
+    <value>Apps</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
-    <value>Bỏ ghim</value>
+    <value>Desanclar</value>
   </data>
   <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
-    <value>Cài đặt bút</value>
+    <value>Configuracion del lapiz</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>Thoát</value>
+    <value>Salir</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>Cài đặt</value>
+    <value>Configuraciones</value>
   </data>
   <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
-    <value>Dừng quay</value>
+    <value>Detener grabación</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
-    <value>vi-VN</value>
+    <value>es-ES</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>Đóng</value>
+    <value>Cerrar</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>Tiếp</value>
+    <value>Siguiente</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
-    <value>Chào mừng</value>
+    <value>Bienvenido</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
-    <value>Chúng ta hãy học cách dùng sành sỏi ứng dụng</value>
+    <value>Aprendamos como usar ésta aplicación como un profesional</value>
   </data>
   <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>Bạn có thể mở Ink Workspace bằng khay biểu tượng. Nó sẽ nằm cạnh đồng hồ.</value>
+    <value>Puedes abrir Ink Workspace usando el icono del área de notificaciones al lado de la hora.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>Biểu tượng có thể bị ẩn. Nếu bạn không thấy nó, thử bấm hoặc chạm vào nút mũi tên.</value>
+    <value>El ícono puede estar oculto. Si no lo ves, intenta clickear o tocar el botón de flecha.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
-    <value>Sử dụng khay biểu tượng</value>
+    <value>Usa el icono del área de notificaciones</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>Bạn có thể mở Ink Workspace thẳng từ thanh tác vụ. Chỉ cần ghim nó.</value>
+    <value>Puedes abrir Ink Workspace directamente desde la barra de tareas. Simplemente anclalo allí.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Bấm chuột phải hoặc chạm và giữ biểu tượng để mở danh sách. Nó bao gồm danh sách các lệnh cần thiết.</value>
+    <value>Click derecho o toca y presiona el ícono para abrir la lista desplegable. Ésta contiene una lista de comandos esenciales.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
-    <value>Ghim ứng dụng vào thanh tác vụ</value>
+    <value>Anclar la app a la barra de tareas</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace cho phép bạn tùy chỉnh các thiết đặt cá nhân, bật hoặc tắt phím tắt, quản lý ứng dụng và hơn thế nữa.</value>
+    <value>Ink Workspace te permite ajustar las opciones de personalización, habilitar o deshabilitar los atajos de teclado, administrar aplicaciones y más.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>Bạn có thể tìm biểu tượng cài đặt trong không gian làm việc, menu chuột phải của khay biểu tượng và trong danh sách.</value>
+    <value>Puedes acceder a las configuraciones desde Ink Workspace, el menú contextual del icono del area de notificaciones o la lista desplegable de la barra de tareas.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
-    <value>Tùy chỉnh cài đặt</value>
+    <value>Ajustar configuraciones</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Đóng cửa sổ này để hoàn thành thiết lập Ink Workspace</value>
+    <value>Cierra ésta ventana para finalizar el apredizaje sobre Ink Workspace</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
-    <value>Gần xong...</value>
+    <value>Casi listo...</value>
   </data>
   <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
-    <value>Bỏ qua</value>
+    <value>Saltar</value>
   </data>
   <data name="JumpList_PenSettings" xml:space="preserve">
-    <value>Cài đặt bút</value>
+    <value>Configuracion del lapiz</value>
   </data>
   <data name="JumpList_QuitApp" xml:space="preserve">
-    <value>Thoát</value>
+    <value>Salir</value>
   </data>
   <data name="JumpList_Settings" xml:space="preserve">
-    <value>Cài đặt</value>
+    <value>Configuraciones</value>
   </data>
   <data name="JumpList_StopRecording" xml:space="preserve">
-    <value>Dừng quay</value>
+    <value>Detener grabación</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Lưu</value>
+    <value>Guardar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Hủy</value>
+    <value>Cancelar</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Tùy chỉnh phím tắt</value>
+    <value>Editar atajo de teclado</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Nhấn tổ hợp phím để thay đổi phím tắt</value>
+    <value>Presiona una combinación de teclas para cambiar éste atajo</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Chỉ những phím tắt bắt đầu bằng</value>
+    <value>Solo los atajos que comiencen con</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Phím Windows</value>
+    <value>Tecla de Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -244,405 +244,405 @@
     <value>Alt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>hoặc</value>
+    <value>o</value>
   </data>
   <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>được chấp nhận.</value>
+    <value>son válidos.</value>
   </data>
   <data name="Market" xml:space="preserve">
-    <value>VN</value>
+    <value>ES</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Ứng dụng</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Trang chủ</value>
+    <value>Inicio</value>
   </data>
   <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Hành động nhanh</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Tệp gần đây</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Cài đặt</value>
+    <value>Configuraciones</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Truyền màn hình</value>
+    <value>Transmitir</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
-    <value>Bảng nhớ tạm</value>
+    <value>Portapapeles</value>
   </data>
   <data name="QuickActions_Action_Connect" xml:space="preserve">
-    <value>Kết nối</value>
+    <value>Conectar</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>Bảng Emoji</value>
+    <value>Panel de Emojis</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
-    <value>Thanh trò chơi</value>
+    <value>Game bar</value>
   </data>
   <data name="QuickActions_Action_LockDevice" xml:space="preserve">
-    <value>Khóa thiết bị</value>
+    <value>Bloquear dispositivo</value>
   </data>
   <data name="QuickActions_Action_Magnifier" xml:space="preserve">
-    <value>Kính lúp</value>
+    <value>Lupa</value>
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
-    <value>Trình tường thuật</value>
+    <value>Narrador</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>Trình chiếu</value>
+    <value>Proyectar</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>Quay màn hình hoặc cửa số</value>
+    <value>Grabar una pantalla o una ventana</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
-    <value>Thùng Rác</value>
+    <value>Papelera de reciclaje</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
-    <value>Chạy</value>
+    <value>Ejecutar</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>Chụp màn hình</value>
+    <value>Recorte de pantalla</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
-    <value>Hiện màn hình nền</value>
+    <value>Mostrar escritorio</value>
   </data>
   <data name="QuickActions_Action_ShutDown" xml:space="preserve">
-    <value>Tắt máy</value>
+    <value>Apagar</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
-    <value>Ngủ đông</value>
+    <value>Hibernar</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
-    <value>Khởi động lại</value>
+    <value>Reiniciar</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
-    <value>Chụp ảnh màn hình</value>
+    <value>Tomar una captura de pantalla</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>Hoãn 10 giây</value>
+    <value>Demorar 10 seg</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
-    <value>Hoãn 15 giây</value>
+    <value>Demorar 15 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
-    <value>Hoãn 3 giây</value>
+    <value>Demorar 3 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
-    <value>Hoãn 5 giây</value>
+    <value>Demorar 5 segundos</value>
   </data>
   <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
-    <value>Touchpad ảo</value>
+    <value>Teclado virtual</value>
   </data>
   <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
-    <value>Nhập bằng giọng nói</value>
+    <value>Dictado por voz</value>
   </data>
   <data name="QuickActions_More.Text" xml:space="preserve">
-    <value>Thêm</value>
+    <value>Más</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>Hành động nhanh</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
-    <value>Hủy ghim</value>
+    <value>Desanclar</value>
   </data>
   <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Bỏ</value>
+    <value>Descartar</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Đánh giá ứng dụng</value>
+    <value>Califica esta aplicación</value>
   </data>
   <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Viết rì viu</value>
+    <value>Escribir una crítica</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
-    <value>Thêm</value>
+    <value>Más</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>Bạn càng dùng thiết bị thì càng nhiều tệp gần đây hiện lên</value>
+    <value>Cuanto más utilices tu dispositivo, los más recientes archivos se mostrarán</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
-    <value>Mở vị trí tệp</value>
+    <value>Abrir ubicación de archivo</value>
   </data>
   <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
-    <value>Gỡ khỏi danh sách</value>
+    <value>Quitar de la lista</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>Tệp gần đây</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
-    <value>Quay màn hình</value>
+    <value>Grabando</value>
   </data>
   <data name="RecordingStatus_Recording.Text" xml:space="preserve">
-    <value>Đang quay...</value>
+    <value>Grabando...</value>
   </data>
   <data name="RecordingStatus_Stop.Text" xml:space="preserve">
-    <value>Dừng</value>
+    <value>Detener</value>
   </data>
   <data name="Recording_Cancel.Content" xml:space="preserve">
-    <value>Hủy</value>
+    <value>Cancelar</value>
   </data>
   <data name="Recording_Skip.Content" xml:space="preserve">
-    <value>Bỏ qua</value>
+    <value>Saltar</value>
   </data>
   <data name="Recording_Starting.Text" xml:space="preserve">
-    <value>Đang bắt đầu...</value>
+    <value>Comenzando...</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Email hỗ trợ</value>
+    <value>Email de soporte</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>Phản hồi</value>
+    <value>Sugerencias</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>Những thư viện sau đã được sử dụng trong ứng dụng này:</value>
+    <value>Las siguientes librerías fueron usadas en esta app:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>Thư viện</value>
+    <value>Librerías</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>Ứng dụng của tôi</value>
+    <value>Mis aplicaciones</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>Đánh giá và rì viu</value>
+    <value>Calificar</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Ứng dụng Mica For Everyone có thể làm cửa sổ ứng dụng hiển thị không đúng. Trong trường hợp này, thêm quy tắc mới cho tến trình InkWorkspace.Wpf và InkWorkspace.Recording và cài giá trị mặt định.</value>
+    <value>La aplicación Mica Para Todos puede causa que la ventana de Ink Workspace se vea incorrectamente. En ese caso, agrega una nueva regla para los procesos InkWorkspace.Wpf y InkWorkspace.Recording y establece los valores por defecto.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
-    <value>Xử lí sự cố</value>
+    <value>Solución de problemas</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>Phiên bản:</value>
+    <value>Versión:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>Hiện ứng dụng Android trong danh sách ứng dụng</value>
+    <value>Mostrar aplicaciones Android en la lista de aplicaciones</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>Mọi ứng dụng Android sẽ bị hủy ghim khỏi Trang chủ nếu bạn tắt cài đặt này</value>
+    <value>Todas las aplicaciones Android serán desancladas del Inicio cuando apagues esta configuración</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
-    <value>Ứng dụng Android</value>
+    <value>Aplicaciones Android</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
-    <value>Bật nhóm trong danh sách ứng dụng</value>
+    <value>Habilitar agrupar aplicaciones de la lista</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>Nhóm ứng dụng</value>
+    <value>Agrupar aplicaciones</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
-    <value>Nâng cao</value>
+    <value>Avanzado</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Hiện ứng dụng truyền thống (không từ store) trong danh sách ứng dụng</value>
+    <value>Mostrar aplicaciones clásicas en la lista de aplicaciones</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>Mọi ứng dụng truyền thống sẽ bị hủy ghim khỏi Trang chủ nếu bạn tắt cài đặt này</value>
+    <value>Todas las aplicaciones cásicas serán desancladas del Inicio cuando apagues esta configuración</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
-    <value>Ứng dụng truyền thống</value>
+    <value>Aplicaciones clásicas</value>
   </data>
   <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
-    <value>Nếu bạn không thấy tất cả ứng dụng, thử làm mới thủ công danh sách</value>
+    <value>Si no ves todas las apliaciones, intenta refrescar la lista manualmente</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>Làm mới</value>
+    <value>Refrescar</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>Đang làm mới</value>
+    <value>Refrescando</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
-    <value>Làm mới ứng dụng</value>
+    <value>Refrescar aplicaciones</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>Hiện hộp tìm kiếm ở mục Ứng dụng</value>
+    <value>Mostrar la barra de búsqueda en la lista de aplicaciones</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
-    <value>Hộp tìm kiếm</value>
+    <value>Barra de búsqueda</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Bỏ ghim tất cả ứng dụng khỏi Trang chủ</value>
+    <value>Desanclar todas las aplicaciones del Inicio</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Bỏ ghim toàn bộ</value>
+    <value>Desanclar todo</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Bỏ ghim</value>
+    <value>Desanclar</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Đã hủy ghim</value>
+    <value>Desanclado</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Tùy chỉnh phím tắt bàn phím</value>
+    <value>Personalizar los atajos de teclado</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Phím tắt kích hoạt</value>
+    <value>Activar atajo de teclado</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
-    <value>Cài đặt thiết bị Bluetooth</value>
+    <value>Configuración de dispositivos bluetooth</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
     <value>Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
-    <value>Khả năng truy cập</value>
+    <value>Accesibilidad</value>
   </data>
   <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
-    <value>Cài đặt liên quan</value>
+    <value>Configuraciones relacionadas</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Phím tắt để hiện không gian làm việc</value>
+    <value>Habilitar el atajo de teclado para mostrar el espacio de trabajo</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Phím tắt kích hoạt ứng dụng</value>
+    <value>Habilitar atajo de teclado</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
-    <value>To hơn</value>
+    <value>Grande</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>Đặt cỡ phông cho nội dung ứng dụng</value>
+    <value>Establecer el tamaño de fuente de letra para el contendido dentro de la aplicación</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
-    <value>Bình thường</value>
+    <value>Normal</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>Cỡ phông</value>
+    <value>Tamaño de fuente de letra</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
-    <value>Cài đặt từ điển cá nhân</value>
+    <value>Configuración de diccionario personal</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>Cá nhân Viết &amp; nhập</value>
+    <value>Personalización de entrada manuscrita y escritura</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>Cài đặt bút &amp; viết tay</value>
+    <value>Configuración de Lápiz y Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>Bút &amp; viết Windows</value>
+    <value>Lápiz y Windows Ink</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>Ghim ứng dụng này vào thanh tác vụ Windows</value>
+    <value>Anclar esta aplicación a la barra de tareas de Windows</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
-    <value>Đã ghim</value>
+    <value>Anclada</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
-    <value>Ghim vào thanh tác vụ</value>
+    <value>Anclar a la barra de tareas</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
-    <value>Ghim vào thanh tác vụ</value>
+    <value>Anclar a la barra de tareas</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Tự động chạy ứng dụng sau khi đăng nhập</value>
+    <value>Ejecutar la aplicación automáticamente luego de iniciar Windows</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>Mở cài đặt</value>
+    <value>Abrir configuraciones</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>Chạy khi khởi động</value>
+    <value>Ejecutar al iniciar Windows</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>Bật trải nghiệm âm thanh sống động</value>
+    <value>Habilitar la experiencia de audio inmersivo</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
-    <value>Âm thanh</value>
+    <value>Sonidos</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>Thiết đặt kích cỡ tiêu đề cho ứng dụng đã ghim</value>
+    <value>Establecer el tamaño de los mosaicos para las aplicaciones ancladas</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Vừa</value>
+    <value>Mediano</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
-    <value>Nhỏ</value>
+    <value>Pequeño</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
-    <value>Kích cỡ tiêu đề ứng dụng</value>
+    <value>Tamaño de los mosaicos de las aplicaciones</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>Hiện hình nền hằng ngày của Bing làm hình nền</value>
+    <value>Mostrar la imagen diaria de Bing en el fondo</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
-    <value>Hình nền Bing</value>
+    <value>Imagen de Bing</value>
   </data>
   <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
-    <value>Tùy chọn</value>
+    <value>Opciones</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>Tiêu đề ứng dụng đã ghim</value>
+    <value>Mosaicos de las aplicaciones ancladas</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
-    <value>Ứng dụng</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>Các thành phần của Trang chủ có thể tự ẩn khi không có dữ liệu.</value>
+    <value>Los elementos del Inicio pueden ocultarse automáticamente cuando no hay datos disponibles.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Tiêu đề hành động nhanh đã ghim</value>
+    <value>Mosaicos de las acciones rápidas que fijaste</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>Hành động nhanh</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Tệp đã thay đổi hoặc đã mở gần đây</value>
+    <value>Archivos recientemente abiertos o modificados</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>Tệp gần đây</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>Ứng dụng khuyên dùng cho bút điện tử</value>
+    <value>Aplicaciones recomendadas para lápiz digital</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>Gợi ý</value>
+    <value>Sugerido</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>Thiết đặt hiển thị và thứ tự các thành phần ở Trang chủ</value>
+    <value>Establecer la visibilidad y orden de los elementos en el Inicio</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>Hiện cụ thể số tệp gần đây</value>
+    <value>Mostrar una cantidad determinada de archivos recientes</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>Tệp gần đây</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
-    <value>Thiết đặt kích cỡ tiêu đề cho hành động nhanh đã ghim</value>
+    <value>Establecer el tamaño de los mosaicos de las acciones rápidas ancladas</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Vừa</value>
+    <value>Mediano</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
-    <value>Nhỏ</value>
+    <value>Pequeño</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
-    <value>Cỡ tiêu đề của hành động nhanh</value>
+    <value>Tamaño de los mosaicos de las acciones rápidas</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
-    <value>Hiện địa chỉ email trong mục chi tiết người dùng</value>
+    <value>Mostrar la dirección de correo electrónico en la sección de detalles del usuario</value>
   </data>
   <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
-    <value>Địa chỉ email người dùng</value>
+    <value>Dirección de correo electrónico del usuario</value>
   </data>
   <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
-    <value>Hiện chi tiết người dùng như ảnh, tên và địa chỉ email</value>
+    <value>Mostrar detalles del usuario como imagen, nombre y dirección de correo electrónico</value>
   </data>
   <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
-    <value>Chi tiết người dùng</value>
+    <value>Detalles del usuario</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
-    <value>Thay đổi kiểu cửa sổ ứng dụng</value>
+    <value>Cambiar el estilo de la ventana de la aplicación</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
-    <value>Kiểu ứng dụng</value>
+    <value>Estilo de la aplicación</value>
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
     <value>Windows 10</value>
@@ -653,103 +653,103 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
-    <value>Nút và trạng thái</value>
+    <value>Botones y estados</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
-    <value>Hiện trạng thái pin của bút ở không gian làm việc</value>
+    <value>Mostrar el estado de la batería del lápiz en el espacio de trabajo</value>
   </data>
   <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
-    <value>Trạng thái pin của bút</value>
+    <value>Estado de la batería del lápiz</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
-    <value>Hiện nút cài đặt bút trong menu chuột phải và danh sách</value>
+    <value>Mostrar el botón de configuración del lápiz en el menú contextual y la lista desplegable</value>
   </data>
   <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
-    <value>Nút cài đặt bút</value>
+    <value>Botón de configuración del lápiz</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
-    <value>Dưới giữa</value>
+    <value>Abajo al centro</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
-    <value>Dưới trái</value>
+    <value>Abajo a la izquierda</value>
   </data>
   <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
-    <value>Dưới phải</value>
+    <value>Abajo a la derecha</value>
   </data>
   <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
-    <value>Thay đổi vị trí cửa sổ ứng dụng</value>
+    <value>Cambiar la posición de la ventana de la aplicación</value>
   </data>
   <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
-    <value>Vị trí</value>
+    <value>Posición</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
-    <value>Trên giữa</value>
+    <value>Arriba al centro</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
-    <value>Trên trái</value>
+    <value>Arriba a la izquierda</value>
   </data>
   <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
-    <value>Trên phải</value>
+    <value>Arriba a la derecha</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
-    <value>Bật bo tròn góc cho tiêu đề ứng dụng và hành động nhanh</value>
+    <value>Habilitar esquinas redondeadas para los mosaicos de las aplicaciones y acciones rápidas</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
-    <value>Bo tròn góc cho tiêu đề</value>
+    <value>Esquinas redondeadas para los mosaicos</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
-    <value>Bật bo tròn góc cho cửa sổ ứng dụng</value>
+    <value>Habilitar esquinas redondeadas para la ventana de la aplicacion</value>
   </data>
   <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
-    <value>Bo tròn góc cho cửa sổ</value>
+    <value>Esquinas redondeadas para la ventana</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
-    <value>Hiện nút Cài đặt ở không gian làm việc</value>
+    <value>Mostrar el botón Configuración en el espacio de trabajo</value>
   </data>
   <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
-    <value>Nút Cài đặt</value>
+    <value>Botón de configuración</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
-    <value>Hiện nút Dừng quay ở menu chuột phải và danh sách trong khi quay</value>
+    <value>Mostrar el botón de detener grabación en el menú contextual y la lista desplegable durante la grabación</value>
   </data>
   <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
-    <value>Nút Dừng quay</value>
+    <value>Botón para detener la grabación</value>
   </data>
   <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
-    <value>Hiện viền vàng quanh màn hình hay cửa sổ</value>
+    <value>Mostrar borde amarillo alrededor de la pantalla o ventana</value>
   </data>
   <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
-    <value>Viền</value>
+    <value>Borde</value>
   </data>
   <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
-    <value>Nâng cao</value>
+    <value>Avanzado</value>
   </data>
   <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
-    <value>Đang quay</value>
+    <value>Grabación</value>
   </data>
   <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
-    <value>Chụp màn hình</value>
+    <value>Recorte de pantalla</value>
   </data>
   <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
-    <value>Tắt máy</value>
+    <value>Aagado</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
-    <value>Quay con trỏ hệ thống</value>
+    <value>Grabar el cursor del sistema</value>
   </data>
   <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
-    <value>Con trỏ</value>
+    <value>Cursor</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để khởi động quay màn hình</value>
+    <value>Habilitar atajo de teclado para comenzar la grabación</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt Khởi động Quay màn hình</value>
+    <value>Atajo de teclado para comenzar una grabación</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để dừng quay màn hình</value>
+    <value>Habilitar atajo de teclado para detener la grabación</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt Dừng Quay màn hình</value>
+    <value>Atajo de teclado para detener la grabación</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30 fps</value>
@@ -758,136 +758,136 @@
     <value>60 fps</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
-    <value>Chọn tốc độ khung hình để quay</value>
+    <value>Seleccionar la velocidad de cuadros de la grabación</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
-    <value>Tốc độ khung hình</value>
+    <value>Velocidad de cuadros</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
-    <value>10 giây</value>
+    <value>10 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
-    <value>3 giây</value>
+    <value>3 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
-    <value>5 giây</value>
+    <value>5 segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
-    <value>Số giây cụ thể để hoãn bắt đầu quay</value>
+    <value>Demorar el inicio de la grabación una especifica cantidad de segundos</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
-    <value>Không hoãn</value>
+    <value>Sin demora</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>Hẹn giờ</value>
+    <value>Iniciar con demora</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
-    <value>Tốt nhất</value>
+    <value>Best</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
-    <value>Chọn chất lượng video để quay</value>
+    <value>Seleccionar la calidad del video de la grabación</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
-    <value>Cao</value>
+    <value>Alta</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
-    <value>Thấp</value>
+    <value>Baja</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
-    <value>Trung bình</value>
+    <value>Media</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
-    <value>Chất lượng video</value>
+    <value>Calidad de video</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
-    <value>Chụp toàn màn hình</value>
+    <value>Capturar todas las pantallas</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
-    <value>Chọn vùng chụp để chỉnh sửa</value>
+    <value>Seleccionar el área a capturar por el recorte de pantalla</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
-    <value>Chỉ chụp màn hình chính</value>
+    <value>Capturar solo la pantalla principal</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>Vùng chụp</value>
+    <value>Área de captura</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
-    <value>Hiện xác nhận trước khi tắt máy</value>
+    <value>Mostrar notificación de confirmación antes de apagar</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
-    <value>Hành động tắt máy sẽ thực hiện ngay lập tức sau khi chọn</value>
+    <value>La acción de apagado será ejecutada inmediatamente al ser invocada</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
-    <value>Xác nhận tắt máy</value>
+    <value>Confirmar apagado</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Tùy chỉnh phím tắt</value>
+    <value>Personalizar atajos de teclado</value>
   </data>
   <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Phím tắt khởi động quay</value>
+    <value>Atajo de teclado para iniciar grabación</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Tùy chỉnh phím tắt</value>
+    <value>Personalizar atajo de teclado</value>
   </data>
   <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Phím tắt dừng quay</value>
+    <value>Atajo de teclado para detener grabación</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Bỏ ghim mọi hành động nhanh khỏi Trang chủ</value>
+    <value>Desanclar todas las acciones rápidas del Inicio</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Bỏ ghim tất cả</value>
+    <value>Desanclar todo</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Bỏ ghim</value>
+    <value>Desanclar</value>
   </data>
   <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Đã bỏ ghim</value>
+    <value>Desanclado</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
-    <value>Gỡ mọi tệp gần đây khỏi danh sách</value>
+    <value>Quitar todos los archivos recientes de la lista</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
-    <value>Gỡ tất cả</value>
+    <value>Quitar todo</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
-    <value>Đã gỡ</value>
+    <value>Quitado</value>
   </data>
   <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
-    <value>Gỡ tất cả</value>
+    <value>Quitar todo</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>Thông tin ứng dụng</value>
+    <value>Información</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
-    <value>Ứng dụng</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="Settings_Menu_General" xml:space="preserve">
-    <value>Chung</value>
+    <value>General</value>
   </data>
   <data name="Settings_Menu_Home" xml:space="preserve">
-    <value>Trang chủ</value>
+    <value>Inicio</value>
   </data>
   <data name="Settings_Menu_Personalization" xml:space="preserve">
-    <value>Cá nhân hóa</value>
+    <value>Personalización</value>
   </data>
   <data name="Settings_Menu_QuickActions" xml:space="preserve">
-    <value>Hành động nhanh</value>
+    <value>Acciones rápidas</value>
   </data>
   <data name="Settings_Menu_RecentFiles" xml:space="preserve">
-    <value>Tệp gần đây</value>
+    <value>Archivos recientes</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Suggested_Next.Text" xml:space="preserve">
-    <value>Tiếp</value>
+    <value>Siguiente</value>
   </data>
   <data name="Suggested_Title.Text" xml:space="preserve">
-    <value>Gợi ý</value>
+    <value>Sugerido</value>
   </data>
   <data name="TrayIcon_Starting" xml:space="preserve">
-    <value>Đang khởi động...</value>
+    <value>Iniciando...</value>
   </data>
 </root>

@@ -1,14 +1,14 @@
 [//]: # (Description)
 
-Ink Workspace est une application indispensable lorsque vous utilisez votre stylo ! Elle vous permet de lancer des applications et des actions rapides, de vérifier le niveau de la batterie de votre stylo, d'accéder à vos fichiers récemment ouverts et de les gérer - tout cela dans une fenêtre moderne et fluide qui s'adapte parfaitement à votre système. Ink Workspace est également le moyen le plus simple de faire des captures d'écran et d'enregistrer votre écran ou n'importe quelle fenêtre.
+Ink Workspace est une application indispensable lorsque vous utilisez votre stylo ! Elle vous permet de lancer des applications et des actions rapides, de vÃ©rifier le niveau de la batterie de votre stylo, d'accÃ©der Ã  vos fichiers rÃ©cemment ouverts et les gÃ©rer - tout cela dans une fenÃªtre moderne et fluide qui s'adapte parfaitement Ã  votre systÃ¨me. Ink Workspace est Ã©galement le poyen le plus simple de faire des captures d'Ã©cran et d'enregistrer votre Ã©cran ou n'importe quelle fenÃªtre.
 
 
-[//]: # (Description rapide)
+[//]: # (Short description)
 
-Une application indispensable qui enrichit l'expérience du stylo sur les appareils Windows
+Une application indispensable qui enrichit l'expÃ©rience du stylo sur les appareils Windows
 
 
-[//]: # (Mots clés)
+[//]: # (Keywords)
 
 ink workspace
 windows ink

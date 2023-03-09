@@ -15,6 +15,5 @@ windows ink
 caneta
 iniciar
 área de trabalho
-apps
 gravação
 acesso rápido
