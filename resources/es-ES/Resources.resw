@@ -326,7 +326,7 @@
     <value>Tomar una captura de pantalla</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>Demorar 10 seg</value>
+    <value>Demorar 10 segundos</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
     <value>Demorar 15 segundos</value>
