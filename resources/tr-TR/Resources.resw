@@ -131,7 +131,7 @@
     <value>Öne getir</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>&apos;{0}&apos; için sonuç bulunamadı</value>
+    <value>'{0}' için sonuç bulunamadı</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Uygulamalar</value>
@@ -172,7 +172,7 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace&apos;i tepsi simgesini kullanarak açabilirsiniz. Saatin yanında duruyor olmalı.</value>
+    <value>Ink Workspace'i tepsi simgesini kullanarak açabilirsiniz. Saatin yanında duruyor olmalı.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
     <value>Simge gizlenmiş olabilir. Eğer görmüyorsanız, ok tuşuna tıklamayı deneyin.</value>
@@ -181,7 +181,7 @@
     <value>Tepsi simgesini kullanın</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace&apos;i doğrudan görev çubuğundan açabilirsiniz. Sabitlemeniz yeterli.</value>
+    <value>Ink Workspace'i doğrudan görev çubuğundan açabilirsiniz. Sabitlemeniz yeterli.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
     <value>Atlama listesini açmak için sağ tıklayın veya basıp tutun. Temel komutlar listesi içerir.</value>
@@ -199,7 +199,7 @@
     <value>Ayarları değiştir</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Ink Workspace&apos;in kurulumunu tamamlamak için bu pencereyi kapatın</value>
+    <value>Ink Workspace'in kurulumunu tamamlamak için bu pencereyi kapatın</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
     <value>Neredeyse hazır...</value>
@@ -294,6 +294,9 @@
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Okuyucu</value>
+  </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Yeni Hızlı Not</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Yansıt</value>

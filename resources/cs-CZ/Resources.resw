@@ -295,6 +295,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Předčítání</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Nová rychlá poznámka</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Promítání</value>
   </data>

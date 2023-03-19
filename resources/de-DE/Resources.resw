@@ -295,6 +295,9 @@
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
     <value>Sprachausgabe</value>
   </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>Neue schnelle Notiz</value>
+  </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
     <value>Projizieren</value>
   </data>
