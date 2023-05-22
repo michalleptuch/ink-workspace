@@ -308,19 +308,19 @@
     <value>Koš</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Rotovat obrazovku</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Vyresetovat rotaci</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Rotovat o 180°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Rotovat o 270°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Rotovat o 90°</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Spustit</value>
