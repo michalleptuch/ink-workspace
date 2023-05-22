@@ -307,6 +307,21 @@
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>휴지통</value>
   </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+  </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>실행</value>
   </data>

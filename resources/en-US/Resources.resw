@@ -307,6 +307,21 @@
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
     <value>Recycle Bin</value>
   </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>Rotate screen</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>Rotate to 0°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>Rotate to 180°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>Rotate to 270°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>Rotate to 90°</value>
+  </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Run</value>
   </data>
