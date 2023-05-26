@@ -308,19 +308,19 @@
     <value>回收站</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>旋转屏幕</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>旋转0°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>旋转180°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>旋转270°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>旋转90°</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>运行</value>
@@ -764,10 +764,10 @@
     <value>启用开始录制快捷键</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>启用结束录制快捷键以结束录制</value>
+    <value>启用停止录制快捷键以结束录制</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>启用结束录制快捷键</value>
+    <value>启用停止录制快捷键</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30帧</value>
