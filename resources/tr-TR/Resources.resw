@@ -308,19 +308,19 @@
     <value>Geri Dönüşüm Kutusu</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Ekranı döndür</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>0°'ye döndür</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>180°'ye döndür</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>270°'ye döndür</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>90°'ye döndür</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Çalıştır</value>
