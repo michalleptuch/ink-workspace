@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>No se encontraron resultados para '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Ejecutar como administrador</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Apps</value>
   </data>
@@ -308,19 +311,19 @@
     <value>Papelera de reciclaje</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Girar pantalla</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Girar a 0°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Girar a 180°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Girar a 270°</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>Girar a 90°</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Ejecutar</value>

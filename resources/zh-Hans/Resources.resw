@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>未找到'{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>以管理员身份运行</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>应用</value>
   </data>

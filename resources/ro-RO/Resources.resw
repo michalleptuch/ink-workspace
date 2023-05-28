@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Nu s-au găsit rezultate pentru '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Executare ca administrator</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Aplicații</value>
   </data>

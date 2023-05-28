@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Không có kết quả cho '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Chạy với tư cách người</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Ứng dụng</value>
   </data>
@@ -311,7 +314,7 @@
     <value>Xoay màn hình</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>Không xoay (mặc định)</value>
+    <value>Xoay 0 độ</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
     <value>Xoay 180 độ</value>

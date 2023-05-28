@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Nebyly nalezeny žádné výsledky pro výraz '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Spustit jako správce</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Aplikace</value>
   </data>

@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>Brak wyników wyszukiwania dla '{0}'</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>Uruchom jako administrator</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>Aplikacje</value>
   </data>

@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>'{0}' の検索結果なし</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>管理者として実行</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>アプリ</value>
   </data>
@@ -308,19 +311,19 @@
     <value>ゴミ箱</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>&gt;&gt;画面回転&lt;&lt;</value>
+    <value>画面回転</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>&gt;&gt;0度回転&lt;&lt;</value>
+    <value>0度回転</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>&gt;&gt;180度回転&lt;&lt;</value>
+    <value>180度回転</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>&gt;&gt;270度回転&lt;&lt;</value>
+    <value>270度回転</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>&gt;&gt;90度回転&lt;&lt;</value>
+    <value>90度回転</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>ファイル名を指定して実行</value>

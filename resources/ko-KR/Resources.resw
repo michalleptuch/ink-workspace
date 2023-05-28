@@ -133,6 +133,9 @@
   <data name="Apps_NoResultsFound" xml:space="preserve">
     <value>'{0}'에 대한 결과 없음</value>
   </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>관리자 권한으로 실행을</value>
+  </data>
   <data name="Apps_Title.Text" xml:space="preserve">
     <value>앱</value>
   </data>
@@ -308,19 +311,19 @@
     <value>휴지통</value>
   </data>
   <data name="QuickActions_Action_Rotate" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>화면 회전</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>0º로 회전</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>180º로 회전</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>270º로 회전</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>&gt;&gt;NEW TRANSLATION&lt;&lt;</value>
+    <value>90º로 회전</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>실행</value>
