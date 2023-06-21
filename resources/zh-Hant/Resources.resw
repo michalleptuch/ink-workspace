@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="Apps_AllApps.Text" xml:space="preserve">
+    <value>所有應用程式</value>
+  </data>
+  <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
+    <value>在此處輸入來搜尋</value>
+  </data>
+  <data name="Apps_MoveToFront.Text" xml:space="preserve">
+    <value>移到最上面</value>
+  </data>
+  <data name="Apps_NoResultsFound" xml:space="preserve">
+    <value>沒有找到「{0}」</value>
+  </data>
+  <data name="Apps_RunAsAdmin.Text" xml:space="preserve">
+    <value>以系統管理員身份執行</value>
+  </data>
+  <data name="Apps_Title.Text" xml:space="preserve">
+    <value>應用程式</value>
+  </data>
+  <data name="Apps_Unpin.Text" xml:space="preserve">
+    <value>取消固定</value>
+  </data>
+  <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
+    <value>手寫筆設定</value>
+  </data>
+  <data name="ContextMenu_Quit.Text" xml:space="preserve">
+    <value>離開</value>
+  </data>
+  <data name="ContextMenu_Settings.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
+    <value>停止錄製</value>
+  </data>
+  <data name="CultureInfo" xml:space="preserve">
+    <value>zh-TW</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="FirstRunExperience_Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="FirstRunExperience_Next.Content" xml:space="preserve">
+    <value>下一步</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
+    <value>歡迎</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
+    <value>讓我們學習如何像專業人士一樣使用此應用程式。</value>
+  </data>
+  <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
+    <value>您可以使用系統匣圖示來開啟 Ink Workspace，它應該被放置在時鐘旁邊。</value>
+  </data>
+  <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
+    <value>此圖示可能處於隱藏狀態，如果您沒有看到，請嘗試點選「顯示隱藏的圖示」的小箭頭按鈕。</value>
+  </data>
+  <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
+    <value>使用系統匣圖示</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
+    <value>您可以直接從工作列來開啟 Ink Workspace，只需要釘選在工作列上即可。</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
+    <value>右鍵點選圖示來開啟捷徑清單，這也包含基本的命令清單。</value>
+  </data>
+  <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
+    <value>釘選應用程式到工作列</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
+    <value>Ink Workspace 可讓您調整個人化設定、啟用或停用鍵盤快速鍵、管理應用程式等。</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
+    <value>您可以在系統匣圖示點選右鍵選單，或者工作列的釘選圖示點選右鍵開啟捷徑清單中找到設定圖示。</value>
+  </data>
+  <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
+    <value>變更設定</value>
+  </data>
+  <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
+    <value>關閉此視窗來完成 Ink Workspace 的設定</value>
+  </data>
+  <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
+    <value>即將完成...</value>
+  </data>
+  <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
+    <value>跳過</value>
+  </data>
+  <data name="JumpList_PenSettings" xml:space="preserve">
+    <value>手寫筆設定</value>
+  </data>
+  <data name="JumpList_QuitApp" xml:space="preserve">
+    <value>離開</value>
+  </data>
+  <data name="JumpList_Settings" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="JumpList_StopRecording" xml:space="preserve">
+    <value>停止錄製</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
+    <value>自訂快速鍵</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
+    <value>按下組合鍵來作為新的快速鍵</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
+    <value>只有使用</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
+    <value>Windows</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
+    <value>Ctrl</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info4.Text" xml:space="preserve">
+    <value>Alt</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
+    <value>或</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
+    <value>按鍵作為組合鍵之一才有效。</value>
+  </data>
+  <data name="Market" xml:space="preserve">
+    <value>TW</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+    <value>應用程式</value>
+  </data>
+  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+    <value>首頁</value>
+  </data>
+  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+    <value>快速設定</value>
+  </data>
+  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+    <value>最近開啟的檔案</value>
+  </data>
+  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="QuickActions_Action_Cast" xml:space="preserve">
+    <value>投放</value>
+  </data>
+  <data name="QuickActions_Action_Clipboard" xml:space="preserve">
+    <value>剪貼簿</value>
+  </data>
+  <data name="QuickActions_Action_Connect" xml:space="preserve">
+    <value>連線</value>
+  </data>
+  <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
+    <value>Emoji 面板</value>
+  </data>
+  <data name="QuickActions_Action_GameBar" xml:space="preserve">
+    <value>Xbox Game Bar</value>
+  </data>
+  <data name="QuickActions_Action_LockDevice" xml:space="preserve">
+    <value>螢幕鎖定</value>
+  </data>
+  <data name="QuickActions_Action_Magnifier" xml:space="preserve">
+    <value>放大鏡</value>
+  </data>
+  <data name="QuickActions_Action_Narrator" xml:space="preserve">
+    <value>朗讀程式</value>
+  </data>
+  <data name="QuickActions_Action_NewQuickNote" xml:space="preserve">
+    <value>新增快速筆記</value>
+  </data>
+  <data name="QuickActions_Action_Project" xml:space="preserve">
+    <value>投影</value>
+  </data>
+  <data name="QuickActions_Action_Recording" xml:space="preserve">
+    <value>錄製螢幕或視窗</value>
+  </data>
+  <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
+    <value>資源回收筒</value>
+  </data>
+  <data name="QuickActions_Action_Rotate" xml:space="preserve">
+    <value>旋轉螢幕</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
+    <value>旋轉 0°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
+    <value>旋轉 180°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
+    <value>旋轉 270°</value>
+  </data>
+  <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
+    <value>旋轉 90°</value>
+  </data>
+  <data name="QuickActions_Action_Run" xml:space="preserve">
+    <value>執行</value>
+  </data>
+  <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
+    <value>螢幕截圖</value>
+  </data>
+  <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
+    <value>顯示桌面</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown" xml:space="preserve">
+    <value>關機</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
+    <value>休眠</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
+    <value>重新啟動</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
+    <value>截圖</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
+    <value>延遲 10 秒</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
+    <value>延遲 15 秒</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
+    <value>延遲 3 秒</value>
+  </data>
+  <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
+    <value>延遲 5 秒</value>
+  </data>
+  <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
+    <value>虛擬觸控板</value>
+  </data>
+  <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
+    <value>語音輸入</value>
+  </data>
+  <data name="QuickActions_More.Text" xml:space="preserve">
+    <value>所有快速設定</value>
+  </data>
+  <data name="QuickActions_Title.Text" xml:space="preserve">
+    <value>快速設定</value>
+  </data>
+  <data name="QuickActions_Unpin.Text" xml:space="preserve">
+    <value>取消固定</value>
+  </data>
+  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+    <value>不用了，謝謝</value>
+  </data>
+  <data name="RateAndReview_Title.Text" xml:space="preserve">
+    <value>評分此應用程式</value>
+  </data>
+  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+    <value>評分並評論</value>
+  </data>
+  <data name="RecentFiles_More.Text" xml:space="preserve">
+    <value>更多</value>
+  </data>
+  <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
+    <value>您使用裝置的次數愈多，顯示的最近的文件就會愈多。</value>
+  </data>
+  <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
+    <value>開啟檔案位置</value>
+  </data>
+  <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
+    <value>從清單移除</value>
+  </data>
+  <data name="RecentFiles_Title.Text" xml:space="preserve">
+    <value>最近的文件</value>
+  </data>
+  <data name="RecordingFileName" xml:space="preserve">
+    <value>錄製</value>
+  </data>
+  <data name="RecordingStatus_Recording.Text" xml:space="preserve">
+    <value>正在錄製</value>
+  </data>
+  <data name="RecordingStatus_Stop.Text" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="Recording_Cancel.Content" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Recording_Skip.Content" xml:space="preserve">
+    <value>略過</value>
+  </data>
+  <data name="Recording_Starting.Text" xml:space="preserve">
+    <value>正在啟動...</value>
+  </data>
+  <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
+    <value>電子郵件支援</value>
+  </data>
+  <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
+    <value>反應</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
+    <value>此應用程式使用以下套件：</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
+    <value>套件</value>
+  </data>
+  <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
+    <value>我的應用程式</value>
+  </data>
+  <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
+    <value>評分並評論</value>
+  </data>
+  <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
+    <value>Mica For Everyone 應用程式可能會導致應用程式視窗顯示不正常。在這種情況發生時，請為 InkWorkspace.Wpf 和 InkWorkspace.Recording 應用程式新增規則並設定預設值。</value>
+  </data>
+  <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
+    <value>疑難排解</value>
+  </data>
+  <data name="SettingsAbout_Version.Text" xml:space="preserve">
+    <value>版本號碼：</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
+    <value>顯示 Android 應用程式清單</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
+    <value>關閉此設定後，所有 Android 應用程式將會在首頁中取消釘選</value>
+  </data>
+  <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
+    <value>Android 應用程式</value>
+  </data>
+  <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
+    <value>在應用程式清單中啟用分組</value>
+  </data>
+  <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
+    <value>應用程式分組</value>
+  </data>
+  <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
+    <value>進階設定</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
+    <value>在應用程式清單中顯示傳統應用程式</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
+    <value>關閉此設定後，所有傳統應用程式將會在首頁中取消釘選</value>
+  </data>
+  <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
+    <value>傳統應用程式</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
+    <value>若您沒有看到所有應用程式，請嘗試手動重新整理清單</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
+    <value>重新整理</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
+    <value>正在重新整理</value>
+  </data>
+  <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
+    <value>重新整理應用程式清單</value>
+  </data>
+  <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
+    <value>在應用程式頁面中顯示搜尋列</value>
+  </data>
+  <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
+    <value>搜尋列</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
+    <value>在首頁取消釘選所有應用程式</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
+    <value>取消釘選所有應用程式</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
+    <value>取消釘選</value>
+  </data>
+  <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
+    <value>未釘選</value>
+  </data>
+  <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
+    <value>變更快速鍵</value>
+  </data>
+  <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
+    <value>啟用快速鍵</value>
+  </data>
+  <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
+    <value>藍牙裝置設定</value>
+  </data>
+  <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
+    <value>藍牙</value>
+  </data>
+  <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
+    <value>存取可用性</value>
+  </data>
+  <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
+    <value>相關設定</value>
+  </data>
+  <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
+    <value>啟用顯示 Ink Workspace 的快速鍵</value>
+  </data>
+  <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
+    <value>啟用快速鍵</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
+    <value>大型</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
+    <value>設定應用程式中的字型大小</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
+    <value>中等</value>
+  </data>
+  <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
+    <value>字型大小</value>
+  </data>
+  <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
+    <value>個人字典設定</value>
+  </data>
+  <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
+    <value>手寫筆跡與輸入個人化</value>
+  </data>
+  <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
+    <value>手寫筆與手寫設定</value>
+  </data>
+  <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
+    <value>手寫筆與 Windows Ink</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
+    <value>釘選此應用程式至工作列</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
+    <value>已釘選</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
+    <value>釘選至工作列</value>
+  </data>
+  <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
+    <value>釘選至工作列</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
+    <value>登入後自動開啟此應用程式</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
+    <value>開啟設定</value>
+  </data>
+  <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
+    <value>設定開機自動啟動</value>
+  </data>
+  <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
+    <value>啟用音效</value>
+  </data>
+  <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
+    <value>音效</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
+    <value>變更動態磚大小</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
+    <value>中等</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
+    <value>小型</value>
+  </data>
+  <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
+    <value>動態磚大小</value>
+  </data>
+  <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
+    <value>首頁背景顯示每天的 Bing 桌布</value>
+  </data>
+  <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
+    <value>Bing 桌布</value>
+  </data>
+  <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
+    <value>選項</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
+    <value>已釘選的動態磚</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
+    <value>應用程式</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
+    <value>當沒有可用的資料時，首頁中的分類可能會自動隱藏</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
+    <value>釘選到快速設定中的動態磚</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
+    <value>快速設定</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
+    <value>最近開啟或修改的檔案</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
+    <value>最近的文件</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
+    <value>推薦的手寫筆的應用程式</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
+    <value>建議應用程式</value>
+  </data>
+  <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
+    <value>設定首頁中分類的顯示項目與順序</value>
+  </data>
+  <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
+    <value>變更最近的文件顯示數量</value>
+  </data>
+  <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
+    <value>最近的文件</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
+    <value>變更快速設定的動態磚大小</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Medium.Content" xml:space="preserve">
+    <value>中等</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Small.Content" xml:space="preserve">
+    <value>小型</value>
+  </data>
+  <data name="SettingsHome_QuickActionsTilesSize_Title.Text" xml:space="preserve">
+    <value>快速設定的動態磚大小</value>
+  </data>
+  <data name="SettingsHome_UsersDetailsEmail_Description.Text" xml:space="preserve">
+    <value>在使用者名稱下方顯示電子郵件位址</value>
+  </data>
+  <data name="SettingsHome_UsersDetailsEmail_Title.Text" xml:space="preserve">
+    <value>使用者電子郵件位址</value>
+  </data>
+  <data name="SettingsHome_UsersDetails_Description.Text" xml:space="preserve">
+    <value>顯示使用者的詳細資料，如相片、姓名和電子郵件位址</value>
+  </data>
+  <data name="SettingsHome_UsersDetails_Title.Text" xml:space="preserve">
+    <value>使用者資料</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Description.Text" xml:space="preserve">
+    <value>變更應用程式視窗的外觀</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Title.Text" xml:space="preserve">
+    <value>應用程式外觀</value>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows10.Content" xml:space="preserve">
+    <value>Windows 10</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
+    <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
+    <value>選項與狀態</value>
+  </data>
+  <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Description.Text" xml:space="preserve">
+    <value>在工作區顯示手寫筆的電量狀態</value>
+  </data>
+  <data name="SettingsPersonalization_PenBatteryStatusInWorkspace_Title.Text" xml:space="preserve">
+    <value>手寫筆電量狀態</value>
+  </data>
+  <data name="SettingsPersonalization_PenSettingsInContextMenu_Description.Text" xml:space="preserve">
+    <value>在系統匣圖示的右鍵選單或是工作列圖示右鍵捷徑清單顯示手寫筆設定</value>
+  </data>
+  <data name="SettingsPersonalization_PenSettingsInContextMenu_Title.Text" xml:space="preserve">
+    <value>手寫筆選項</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomCenter.Content" xml:space="preserve">
+    <value>底部置中</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomLeft.Content" xml:space="preserve">
+    <value>左下角</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_BottomRight.Content" xml:space="preserve">
+    <value>右下角</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_Description.Text" xml:space="preserve">
+    <value>變更顯示應用程式視窗的位置</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_Title.Text" xml:space="preserve">
+    <value>位置</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopCenter.Content" xml:space="preserve">
+    <value>頂部置中</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopLeft.Content" xml:space="preserve">
+    <value>左上角</value>
+  </data>
+  <data name="SettingsPersonalization_Placement_TopRight.Content" xml:space="preserve">
+    <value>右上角</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForTiles_Description.Text" xml:space="preserve">
+    <value>為應用程式和快速設定動態磚啟用圓角</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForTiles_Title.Text" xml:space="preserve">
+    <value>啟用動態磚圓角邊框</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForWindows_Description.Text" xml:space="preserve">
+    <value>為應用程式視窗啟用圓角邊框</value>
+  </data>
+  <data name="SettingsPersonalization_RoundedCornersForWindows_Title.Text" xml:space="preserve">
+    <value>啟用視窗啟用圓角邊框</value>
+  </data>
+  <data name="SettingsPersonalization_SettingsInWorkspace_Description.Text" xml:space="preserve">
+    <value>在工作列顯示手寫筆選項</value>
+  </data>
+  <data name="SettingsPersonalization_SettingsInWorkspace_Title.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Description.Text" xml:space="preserve">
+    <value>在系統匣圖示的右鍵選單或是工作列圖示右鍵捷徑清單顯示停止錄製選項</value>
+  </data>
+  <data name="SettingsPersonalization_StopRecordingInContextMenuAndJumpList_Title.Text" xml:space="preserve">
+    <value>停止錄製選項</value>
+  </data>
+  <data name="SettingsQuickActions_Border_Description.Text" xml:space="preserve">
+    <value>在螢幕或視窗週圍顯示黃色邊框</value>
+  </data>
+  <data name="SettingsQuickActions_Border_Title.Text" xml:space="preserve">
+    <value>邊框</value>
+  </data>
+  <data name="SettingsQuickActions_Category_Advanced.Text" xml:space="preserve">
+    <value>進階設定</value>
+  </data>
+  <data name="SettingsQuickActions_Category_Recording.Text" xml:space="preserve">
+    <value>錄製</value>
+  </data>
+  <data name="SettingsQuickActions_Category_ScreenSketch.Text" xml:space="preserve">
+    <value>螢幕截圖</value>
+  </data>
+  <data name="SettingsQuickActions_Category_ShutDown.Text" xml:space="preserve">
+    <value>關機</value>
+  </data>
+  <data name="SettingsQuickActions_Cursor_Description.Text" xml:space="preserve">
+    <value>錄製系統滑鼠游標</value>
+  </data>
+  <data name="SettingsQuickActions_Cursor_Title.Text" xml:space="preserve">
+    <value>滑鼠游標</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>啟用開始錄製快速鍵來開始錄製</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>啟用開始錄製快速鍵</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>啟用停止錄製快速鍵來結速錄製</value>
+  </data>
+  <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>啟用停止錄製快速鍵</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
+    <value>30 影格率</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_60fps.Content" xml:space="preserve">
+    <value>60 影格率</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_Description.Text" xml:space="preserve">
+    <value>選取錄製影格率</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingFrameRate_Title.Text" xml:space="preserve">
+    <value>錄製影格率</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_10secs.Content" xml:space="preserve">
+    <value>10 秒</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_3secs.Content" xml:space="preserve">
+    <value>3 秒</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_5secs.Content" xml:space="preserve">
+    <value>5 秒</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_Description.Text" xml:space="preserve">
+    <value>延遲指定的秒數來開始錄製</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_NoDelay.Content" xml:space="preserve">
+    <value>沒有延遲</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
+    <value>啟用延遲</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
+    <value>最高</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Description.Text" xml:space="preserve">
+    <value>選擇錄製影片的品質</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_High.Content" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Low.Content" xml:space="preserve">
+    <value>低</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Medium.Content" xml:space="preserve">
+    <value>中</value>
+  </data>
+  <data name="SettingsQuickActions_RecordingVideoQuality_Title.Text" xml:space="preserve">
+    <value>影片品質</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_AllScreens.Content" xml:space="preserve">
+    <value>擷取所有螢幕</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_Description.Text" xml:space="preserve">
+    <value>選擇應截圖中擷取的區域</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_PrimaryScreen.Content" xml:space="preserve">
+    <value>只擷取主螢幕</value>
+  </data>
+  <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
+    <value>擷取區域</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
+    <value>關機前顯示確認視窗</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Information.Text" xml:space="preserve">
+    <value>關機動作將會在呼叫後立刻執行</value>
+  </data>
+  <data name="SettingsQuickActions_ShutDownConfirmation_Title.Text" xml:space="preserve">
+    <value>確認關機視窗</value>
+  </data>
+  <data name="SettingsQuickActions_StartRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>自訂捷徑清單</value>
+  </data>
+  <data name="SettingsQuickActions_StartRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>開始錄製快速鍵</value>
+  </data>
+  <data name="SettingsQuickActions_StopRecordingShortcut_Description.Text" xml:space="preserve">
+    <value>自訂快速鍵</value>
+  </data>
+  <data name="SettingsQuickActions_StopRecordingShortcut_Title.Text" xml:space="preserve">
+    <value>停止錄製快速鍵</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Description.Text" xml:space="preserve">
+    <value>在首頁中取消釘選所有快速設定動態磚</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Title.Text" xml:space="preserve">
+    <value>取消所有釘選</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Unpin.Content" xml:space="preserve">
+    <value>取消釘選</value>
+  </data>
+  <data name="SettingsQuickActions_UnpinAll_Unpinned" xml:space="preserve">
+    <value>尚未釘選</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Description.Text" xml:space="preserve">
+    <value>從清單中移除所有最近的文件</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_RemoveAll.Content" xml:space="preserve">
+    <value>移除全部</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Removed" xml:space="preserve">
+    <value>已移除</value>
+  </data>
+  <data name="SettingsRecentFiles_RemoveAll_Title.Text" xml:space="preserve">
+    <value>移除全部</value>
+  </data>
+  <data name="Settings_Menu_About" xml:space="preserve">
+    <value>關於</value>
+  </data>
+  <data name="Settings_Menu_Apps" xml:space="preserve">
+    <value>應用程式</value>
+  </data>
+  <data name="Settings_Menu_General" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="Settings_Menu_Home" xml:space="preserve">
+    <value>首頁</value>
+  </data>
+  <data name="Settings_Menu_Personalization" xml:space="preserve">
+    <value>個人化</value>
+  </data>
+  <data name="Settings_Menu_QuickActions" xml:space="preserve">
+    <value>快速設定</value>
+  </data>
+  <data name="Settings_Menu_RecentFiles" xml:space="preserve">
+    <value>最近的文件</value>
+  </data>
+  <data name="Settings_WindowTitle.Text" xml:space="preserve">
+    <value>Ink Workspace</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="Suggested_Next.Text" xml:space="preserve">
+    <value>下一個</value>
+  </data>
+  <data name="Suggested_Title.Text" xml:space="preserve">
+    <value>建議</value>
+  </data>
+  <data name="TrayIcon_Starting" xml:space="preserve">
+    <value>正在啟動...</value>
+  </data>
+</root>
