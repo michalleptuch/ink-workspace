@@ -12,7 +12,8 @@ Feel free to share ideas about new features or report bugs.
 
 ## Translations
 
-Chinese: [@ZHang233-ai](https://github.com/ZHang233-ai)  
+Chinese (Simplified): [@ZHang233-ai](https://github.com/ZHang233-ai)  
+Chinese (Traditional): [@yrctw](https://github.com/yrctw)  
 Czech: [@Vaki21](https://github.com/Vaki21)  
 English (United States): [@michalleptuch](https://github.com/michalleptuch)  
 French: [@FJduFou](https://github.com/FJduFou)  
