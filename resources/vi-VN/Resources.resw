@@ -259,19 +259,19 @@
     <value>VN</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
-  <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Apps" xml:space="preserve">
     <value>Ứng dụng</value>
   </data>
-  <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Home" xml:space="preserve">
     <value>Trang chủ</value>
   </data>
-  <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_QuickActions" xml:space="preserve">
     <value>Hành động nhanh</value>
   </data>
-  <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_RecentFiles" xml:space="preserve">
     <value>Tệp gần đây</value>
   </data>
-  <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="NavigationBar_Settings" xml:space="preserve">
     <value>Cài đặt</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
@@ -314,16 +314,16 @@
     <value>Xoay màn hình</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate0" xml:space="preserve">
-    <value>Xoay 0 độ</value>
+    <value>Không xoay</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate180" xml:space="preserve">
     <value>Xoay 180 độ</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate270" xml:space="preserve">
-    <value>xoay 270 độ</value>
+    <value>Xoay 270 độ</value>
   </data>
   <data name="QuickActions_Action_Rotate_Rotate90" xml:space="preserve">
-    <value>xoay 90 độ</value>
+    <value>Xoay 90 độ</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
     <value>Chạy</value>
@@ -342,6 +342,9 @@
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
     <value>Khởi động lại</value>
+  </data>
+  <data name="QuickActions_Action_ShutDown_Sleep" xml:space="preserve">
+    <value>Chế độ ngủ</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
     <value>Chụp ảnh màn hình</value>
@@ -373,13 +376,13 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Hủy ghim</value>
   </data>
-  <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_Dismiss" xml:space="preserve">
     <value>Bỏ</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
     <value>Đánh giá ứng dụng</value>
   </data>
-  <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
+  <data name="RateAndReview_WriteReview" xml:space="preserve">
     <value>Viết rì viu</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
@@ -671,6 +674,10 @@
   </data>
   <data name="SettingsPersonalization_AppStyle_Windows11.Content" xml:space="preserve">
     <value>Windows 11</value>
+    <comment>DO NOT TRANSLATE</comment>
+  </data>
+  <data name="SettingsPersonalization_AppStyle_Windows11Mica.Content" xml:space="preserve">
+    <value>Windows 11 Mica</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsPersonalization_Category_ButtonsAndStatuses.Text" xml:space="preserve">
