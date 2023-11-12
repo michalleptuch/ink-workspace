@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Odepnout</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Odmítnout</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Ohodnotit tuto aplikaci</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Napsat recenzi</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>Více</value>
   </data>

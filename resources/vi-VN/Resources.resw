@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Hủy ghim</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Bỏ</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Đánh giá ứng dụng</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Viết rì viu</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>Thêm</value>
   </data>

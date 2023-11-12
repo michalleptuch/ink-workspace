@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>取消固定</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>不用了，謝謝</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>評分此應用程式</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>評分並評論</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>更多</value>
   </data>

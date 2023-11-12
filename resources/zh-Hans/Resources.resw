@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>取消固定</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>不予评价</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>评价这个应用</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>写一个评论</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>更多</value>
   </data>

@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Sabitlemeyi kaldır</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Kapat</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Bu uygulamaya puan verin</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Bir inceleme yazın</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>Daha fazla</value>
   </data>

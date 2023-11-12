@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Lösen</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Ablehnen</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Diese App bewerten</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Eine Bewertung schreiben</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>Mehr</value>
   </data>

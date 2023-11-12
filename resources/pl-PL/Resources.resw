@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Odepnij</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Odrzuć</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Oceń aplikację</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Napisz recenzję</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>Więcej</value>
   </data>

@@ -376,15 +376,6 @@
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
     <value>Unpin</value>
   </data>
-  <data name="RateAndReview_Dismiss" xml:space="preserve">
-    <value>Dismiss</value>
-  </data>
-  <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Rate this app</value>
-  </data>
-  <data name="RateAndReview_WriteReview" xml:space="preserve">
-    <value>Write a review</value>
-  </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
     <value>More</value>
   </data>
